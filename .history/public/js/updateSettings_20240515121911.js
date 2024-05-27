@@ -1,0 +1,22 @@
+import axios from 'axios';
+import { showAlert } from './alert';
+
+export const updateData = async (data) => {
+  console.log(data);
+
+  try {
+    const url = 'http://localhost:3000/api/v1/users/updateMe/';
+
+    const res = await axios({
+      method: 'PATCH',
+      url,
+      data,
+    });
+
+    if (res.data.status === 'success') {
+      showAlert('success', `${type.toUpperCase()} atualizado com sucesso!`);
+    }
+  } catch (error) {
+    showAlert('error', error.response.data.message);
+  }
+};

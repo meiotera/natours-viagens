@@ -1,0 +1,21 @@
+extends base
+
+block content
+    main.main
+        .login-form
+            h2.heading-secondary.ma-bt-lg Faça seu cadastro
+            form.form.form--login
+                .form__group
+                    label.form__label(for='name') Digite seu nome
+                    input#name.form__input(type='name' placeholder='Negueba da Silva', required)
+                .form__group
+                    label.form__label(for='email') Endereço de e-mail
+                    input#email.form__input(type='email' placeholder='you@example.com', required)
+                .form__group.ma-bt-md
+                    label.form__label(for='password') Senha
+                    input#password.form__input(type='password' placeholder='••••••••', required, minlength='8')
+                .form__group.ma-bt-md
+                    label.form__label(for='passwordConfirm') Confirme a senha
+                    input#passwordConfirm.form__input(type='password' placeholder='••••••••', required, minlength='8')
+                .form__group
+                    button.btn.btn--green#btn--login Criar Conta
