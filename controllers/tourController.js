@@ -2,12 +2,47 @@
 /* eslint-disable no-undef */
 /* eslint-disable node/no-unsupported-features/es-syntax */
 // const fs = require('fs');
+
+const sharp = require('sharp');
+const multer = require('multer');
 const Tour = require('../models/tourModel');
 // const APIFeatures = require('../ultils/apiFeatures');
 const AppError = require('../ultils/appError');
 const catchAsync = require('../ultils/catchAsync');
 
 const factory = require('./handlerFactory');
+
+const multerStorage = multer.memoryStorage();
+
+// funcao para filtrar arquivos
+const multerFilter = (req, file, cb) => {
+  if (file.mimetype.startsWith('image')) {
+    cb(null, true);
+  } else {
+    cb(
+      new AppError('Não é uma imagem! Por favor, envie apenas imagens.', 400),
+      false,
+    );
+  }
+};
+
+// upload de imagem
+const upload = multer({
+  storage: multerStorage,
+  fileFilter: multerFilter,
+});
+
+exports.uploadTourImages = upload.fields([
+  { name: 'imageCover', maxCount: 1 },
+  { name: 'images', maxCount: 3 },
+]);
+
+exports.resizeTourImages = catchAsync(async (req, res, next) => {
+  console.log(req.files);
+  next();
+});
+
+// upload.array('images', 5);
 
 // lendo os dados e armazenando na variavel
 // const tours = JSON.parse(

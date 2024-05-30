@@ -1,8 +1,8 @@
 const User = require('../models/userModel');
-const sharp = require('sharp');
 const AppError = require('../ultils/appError');
 const catchAsync = require('../ultils/catchAsync');
 const factory = require('./handlerFactory');
+const sharp = require('sharp');
 const multer = require('multer');
 
 // storage para salvar a imagem
