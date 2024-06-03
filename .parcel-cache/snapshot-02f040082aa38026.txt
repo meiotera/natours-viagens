@@ -1,4 +1,204 @@
-24234
+24598
+95/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/README.md1717412314022092608 0
+99/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/versions.json1717412314022092608 0
+98/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/index.js1717412314022092608 0
+106/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/glib-2.0/include1717412314022092608 1
+89/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/lib1717412313146069383 1
+106/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-linuxmusl-x64/lib/sharp-linuxmusl-x64.node1717412313086067792 0
+90/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-linuxmusl-x64/package.json1717412313070067368 0
+85/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-linuxmusl-x64/LICENSE1717412313070067368 0
+102/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/lib/hp2-builder.d.ts1717412312742058671 0
+101/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/lib/hp2-builder.mjs1717412312742058671 0
+94/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/package.json1717412312738058565 0
+101/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/lib/hp2-builder.cjs1717412312738058565 0
+85/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/lib1717412312738058565 1
+81/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-linuxmusl-x64/lib1717412313070067368 1
+118/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/WritableStream.d.ts1717412312330047748 0
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Tokenizer.d.ts1717412312330047748 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Parser.d.ts1717412312330047748 0
+100/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/README.md1717412312326047641 0
+116/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/WritableStream.js.map1717412312326047641 0
+118/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/WritableStream.d.ts.map1717412312326047641 0
+122/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/WritableStream.d.ts.map1717412312326047641 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Tokenizer.js.map1717412312322047535 0
+102/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/index.d.ts1717412312322047535 0
+115/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Tokenizer.js.map1717412312322047535 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/index.d.ts1717412312322047535 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/escape.d.ts1717412312318047429 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/encode.d.ts1717412312318047429 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Parser.js.map1717412312318047429 0
+118/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/encode-html.d.ts1717412312318047429 0
+122/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-xml.d.ts1717412312310047217 0
+126/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-xml.d.ts1717412312302047005 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/index.js.map1717412312302047005 0
+123/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-html.d.ts1717412312302047005 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/index.js.map1717412312302047005 0
+127/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-html.d.ts1717412312302047005 0
+117/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode_codepoint.d.ts1717412312298046899 0
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/index.d.ts.map1717412312298046899 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/package.json1717412312298046899 0
+97/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/readme.md1717412312298046899 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/index.js.map1717412312294046793 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/traversal.d.ts1717412312294046793 0
+116/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/WritableStream.js1717412312290046687 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/index.d.ts.map1717412312290046687 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/traversal.d.ts1717412312290046687 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/stringify.d.ts1717412312290046687 0
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/escape.js.map1717412312286046581 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/stringify.d.ts1717412312286046581 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/escape.d.ts.map1717412312282046475 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Tokenizer.js1717412312290046687 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/escape.d.ts.map1717412312282046475 0
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/querying.d.ts1717412312282046475 0
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/manipulation.d.ts1717412312274046263 0
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/encode.js.map1717412312274046263 0
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/manipulation.d.ts1717412312270046157 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Tokenizer.js1717412312282046475 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/encode.d.ts.map1717412312270046157 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/legacy.d.ts1717412312270046157 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Parser.js1717412312266046051 0
+79/home/renan/Documentos/projetos/starter/node_modules/parseley/lib/parseley.d.ts1717412312266046051 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Parser.js1717412312266046051 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/helpers.d.ts1717412312262045945 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/index.js1717412312262045945 0
+102/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/feeds.d.ts1717412312262045945 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/feeds.d.ts1717412312262045945 0
+124/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/encode-html.js.map1717412312262045945 0
+74/home/renan/Documentos/projetos/starter/node_modules/parseley/CHANGELOG.md1717412312258045839 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/index.js1717412312258045839 0
+126/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/encode-html.d.ts.map1717412312258045839 0
+98/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm1717412312254045732 1
+94/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib1717412312254045732 1
+114/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/traversal.d.ts.map1717412312254045732 0
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode.js.map1717412312254045732 0
+78/home/renan/Documentos/projetos/starter/node_modules/parseley/lib/parseley.cjs1717412312254045732 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/stringify.js.map1717412312246045520 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode.d.ts.map1717412312246045520 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/escape.d.ts1717412312318047429 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode.d.ts.map1717412312246045520 0
+65/home/renan/Documentos/projetos/starter/node_modules/parseley/lib1717412312246045520 1
+69/home/renan/Documentos/projetos/starter/node_modules/parseley/LICENSE1717412312246045520 0
+114/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/stringify.d.ts.map1717412312246045520 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/querying.js.map1717412312242045414 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/querying.js.map1717412312242045414 0
+126/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-xml.d.ts.map1717412312242045414 0
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/querying.d.ts.map1717412312234045202 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/manipulation.js.map1717412312234045202 0
+129/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-html.js.map1717412312234045202 0
+115/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/manipulation.js.map1717412312234045202 0
+131/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-html.d.ts.map1717412312234045202 0
+115/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode_codepoint.js.map1717412312230045096 0
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/legacy.js.map1717412312230045096 0
+100/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/package.json1717412312230045096 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/index.js.map1717412312230045096 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/package.json1717412312230045096 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/index.js.map1717412312230045096 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/index.d.ts.map1717412312226044990 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/index.d.ts.map1717412312226044990 0
+100/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/index.js1717412312226044990 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/helpers.js.map1717412312226044990 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/helpers.js.map1717412312226044990 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/escape.js1717412312226044990 0
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/escape.js1717412312222044884 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/encode.js1717412312218044778 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/feeds.js.map1717412312218044778 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/feeds.d.ts.map1717412312214044672 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/feeds.d.ts.map1717412312214044672 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/node.d.ts1717412312210044566 0
+123/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm/node.d.ts1717412312206044460 0
+120/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/encode-html.js1717412312206044460 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/traversal.js1717412312198044248 0
+120/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/index.d.ts1717412312198044248 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/index.d.ts1717412312198044248 0
+76/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/Types.d.ts1717412312186043930 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/index.d.ts1717412312182043824 0
+85/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/TreeifyBuilder.d.ts1717412312174043611 0
+75/home/renan/Documentos/projetos/starter/node_modules/html-to-text/README.md1717412312210044566 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm/index.d.ts1717412312170043505 0
+124/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm/index.d.ts1717412312182043824 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm/index.d.ts1717412312182043824 0
+99/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/readme.md1717412312166043399 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/querying.js1717412312166043399 0
+119/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm/foreignNames.d.ts1717412312166043399 0
+123/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/node.d.ts.map1717412312166043399 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/node.d.ts.map1717412312166043399 0
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode.js1717412312166043399 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm/node.d.ts.map1717412312162043293 0
+77/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/Picker.d.ts1717412312166043399 0
+120/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-xml.js1717412312162043293 0
+83/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/DecisionTree.d.ts1717412312162043293 0
+124/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-xml.js1717412312162043293 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/README.md1717412312162043293 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/manipulation.js1717412312162043293 0
+124/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/index.d.ts.map1717412312162043293 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/index.d.ts.map1717412312162043293 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/core.mjs1717412312158043187 0
+128/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm/index.d.ts.map1717412312158043187 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm/index.d.ts.map1717412312158043187 0
+74/home/renan/Documentos/projetos/starter/node_modules/deepmerge/license.txt1717412312154043081 0
+119/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/foreignNames.d.ts.map1717412312150042975 0
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/legacy.js1717412312150042975 0
+118/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/package.json1717412312150042975 0
+102/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/package.json1717412312150042975 0
+78/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/selderee.mjs1717412312154043081 0
+126/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm/package.json1717412312146042869 0
+121/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-html.js1717412312158043187 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/package.json1717412312146042869 0
+71/home/renan/Documentos/projetos/starter/node_modules/leac/lib/leac.d.ts1717412312138042657 0
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated1717412312134042551 1
+117/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/node.js1717412312138042657 0
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/node.js1717412312138042657 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/index.js1717412312134042551 0
+75/home/renan/Documentos/projetos/starter/node_modules/deepmerge/package.json1717412312134042551 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/index.js1717412312134042551 0
+121/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm/node.js1717412312130042445 0
+74/home/renan/Documentos/projetos/starter/node_modules/selderee/package.json1717412312130042445 0
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/foreignNames.js1717412312126042339 0
+100/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/feeds.js1717412312126042339 0
+118/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/index.js1717412312126042339 0
+102/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/index.js1717412312126042339 0
+70/home/renan/Documentos/projetos/starter/node_modules/leac/CHANGELOG.md1717412312126042339 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/core.cjs1717412312126042339 0
+70/home/renan/Documentos/projetos/starter/node_modules/leac/package.json1717412312122042233 0
+115/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode_codepoint.js1717412312118042127 0
+86/home/renan/Documentos/projetos/starter/node_modules/html-to-text/lib/html-to-text.cjs1717412312158043187 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/feeds.js1717412312118042127 0
+117/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm/foreignNames.js1717412312118042127 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm/index.js1717412312118042127 0
+74/home/renan/Documentos/projetos/starter/node_modules/deepmerge/dist/cjs.js1717412312114042021 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode_codepoint.js1717412312114042021 0
+65/home/renan/Documentos/projetos/starter/node_modules/selderee/lib1717412312114042021 1
+69/home/renan/Documentos/projetos/starter/node_modules/selderee/LICENSE1717412312114042021 0
+61/home/renan/Documentos/projetos/starter/node_modules/leac/lib1717412312110041915 1
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm1717412312110041915 1
+97/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm1717412312110041915 1
+67/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib1717412312110041915 1
+67/home/renan/Documentos/projetos/starter/node_modules/deepmerge/dist1717412312106041808 1
+91/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib1717412312106041808 1
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/LICENSE1717412312110041915 0
+113/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/LICENSE1717412312110041915 0
+76/home/renan/Documentos/projetos/starter/node_modules/deepmerge/.editorconfig1717412312106041808 0
+105/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler1717412311950037672 1
+94/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules1717412311950037672 1
+90/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser21717412311950037672 1
+87/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils1717412311950037672 1
+78/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules1717412311950037672 1
+65/home/renan/Documentos/projetos/starter/node_modules/html-to-text1717412311950037672 1
+63/home/renan/Documentos/projetos/starter/node_modules/peberminta1717412311946037566 1
+62/home/renan/Documentos/projetos/starter/node_modules/deepmerge1717412311946037566 1
+77/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-linuxmusl-x641717412311946037566 1
+85/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x641717412311946037566 1
+74/home/renan/Documentos/projetos/starter/.history/config_20240409101202.env1717411109170951450 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530150222.js1717092142560466005 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530144352.js1717091032246070537 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530143246.js1717090366401995357 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530143119.js1717090279559274894 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530143042.js1717090242860212325 0
+84/home/renan/Documentos/projetos/starter/.history/routes/tourRoutes_20240502073011.js1717088631786299761 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530140259.js1717088579042099768 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530135546.js1717088146197270888 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530135326.js1717088006437071659 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240502084317.js1717088006417071052 0
 60/home/renan/Documentos/projetos/starter/ultils/catchAsync.js1709989753327790570 0
 46/home/renan/Documentos/projetos/starter/app.js1716212789556629294 0
 75/home/renan/Documentos/projetos/starter/dev-data/templates/tourTemplate.pug1603097929000000000 0
@@ -23,6 +223,7 @@
 76/home/renan/Documentos/projetos/starter/.history/package_20240512172839.json1715545719707374071 0
 76/home/renan/Documentos/projetos/starter/.history/package_20240511063617.json1715421389314143354 0
 70/home/renan/Documentos/projetos/starter/.history/app_20240512180625.js1715547985314056318 0
+91/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib1717412312106041808 1
 76/home/renan/Documentos/projetos/starter/.history/package_20240511070037.json1715421637439684604 0
 91/home/renan/Documentos/projetos/starter/.history/public/js/updateSettings_20240515122908.js1715786948821728439 0
 91/home/renan/Documentos/projetos/starter/.history/public/js/updateSettings_20240515123032.js1715787032193744504 0
@@ -50,6 +251,7 @@
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240516080647.js1715857607823666465 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240515233400.js1715826840759901877 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/login_20240513113944.js1715611184593388125 0
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/manipulation.d.ts.map1717412312234045202 0
 91/home/renan/Documentos/projetos/starter/.history/public/js/updateSettings_20240515115206.js1715784726156044355 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240515114907.js1715784547025413646 0
 91/home/renan/Documentos/projetos/starter/.history/public/js/updateSettings_20240516000636.js1715828796159532693 0
@@ -81,6 +283,7 @@
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240512184247.js1715550167227129290 0
 91/home/renan/Documentos/projetos/starter/.history/public/js/updateSettings_20240516093243.js1715862763280781093 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240512184350.js1715550230097360349 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530143100.js1717090260581708862 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240516074557.js1715856357028952253 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/login_20240513093726.js1715603846445674885 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240518105238.js1716040358659606505 0
@@ -97,6 +300,7 @@
 82/home/renan/Documentos/projetos/starter/.history/public/js/login_20240513080651.js1715598411521178010 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/login_20240513114019.js1715611219262811346 0
 83/home/renan/Documentos/projetos/starter/.history/public/js/signup_20240518110911.js1716041351006528663 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/index.d.ts1717412312266046051 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240515101601.js1715778961409057012 0
 91/home/renan/Documentos/projetos/starter/.history/public/js/updateSettings_20240515121724.js1715786244992249306 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240516091603.js1715861763567582217 0
@@ -219,6 +423,7 @@
 81/home/renan/Documentos/projetos/starter/.history/views/account_20240516094224.pug1715863344273764336 0
 80/home/renan/Documentos/projetos/starter/.history/views/signup_20240517124917.pug1715960957494562894 0
 79/home/renan/Documentos/projetos/starter/.history/views/login_20240509105538.pug1715775169196955054 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/encode.d.ts1717412312318047429 0
 81/home/renan/Documentos/projetos/starter/.history/views/account_20240514233059.pug1715740259363059947 0
 81/home/renan/Documentos/projetos/starter/.history/views/account_20240514111610.pug1715696170080089455 0
 81/home/renan/Documentos/projetos/starter/.history/views/account_20240515000154.pug1715742114267359892 0
@@ -267,8 +472,8 @@
 81/home/renan/Documentos/projetos/starter/.history/views/account_20240515000205.pug1715742125655951656 0
 83/home/renan/Documentos/projetos/starter/.history/models/tourModel_20240513120156.js1715612516781071177 0
 83/home/renan/Documentos/projetos/starter/.history/models/userModel_20240513120139.js1715612498996477495 0
-52/home/renan/Documentos/projetos/starter/package.json1716382547985191775 0
-57/home/renan/Documentos/projetos/starter/package-lock.json1716382548669209502 0
+52/home/renan/Documentos/projetos/starter/package.json1717412314334100881 0
+57/home/renan/Documentos/projetos/starter/package-lock.json1717412314842114349 0
 59/home/renan/Documentos/projetos/starter/.vscode/launch.json1709821335135444395 0
 47/home/renan/Documentos/projetos/starter/.vscode1709821335135444395 1
 60/home/renan/Documentos/projetos/starter/public/css/style.css1715262831155273631 0
@@ -318,9 +523,10 @@
 105/home/renan/Documentos/projetos/starter/public/img/users/user-664d65aac2243a7d7bf9fcde-1716381429101.jpeg1716381429105059729 0
 67/home/renan/Documentos/projetos/starter/public/img/users/user-7.jpg1603097929000000000 0
 69/home/renan/Documentos/projetos/starter/controllers/authController.js1715741055871681171 0
-69/home/renan/Documentos/projetos/starter/controllers/tourController.js1714650198761702037 0
+69/home/renan/Documentos/projetos/starter/controllers/tourController.js1717092468964924562 0
+61/home/renan/Documentos/projetos/starter/node_modules/parseley1717412311946037566 1
 72/home/renan/Documentos/projetos/starter/controllers/reviewsController.js1714054129485080304 0
-60/home/renan/Documentos/projetos/starter/routes/tourRoutes.js1714645812341379036 0
+60/home/renan/Documentos/projetos/starter/routes/tourRoutes.js1717088631790299780 0
 46/home/renan/Documentos/projetos/starter/routes1714739861955362677 1
 49/home/renan/Documentos/projetos/starter/README.md1716817972500241911 0
 54/home/renan/Documentos/projetos/starter/.eslintrc.json1603097929000000000 0
@@ -363,6 +569,7 @@
 78/home/renan/Documentos/projetos/starter/node_modules/cosmiconfig/dist/types.js1715418194978442798 0
 86/home/renan/Documentos/projetos/starter/node_modules/cosmiconfig/dist/loaders.d.ts.map1715418195414679199 0
 84/home/renan/Documentos/projetos/starter/node_modules/cosmiconfig/dist/types.d.ts.map1715418195598778893 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/legacy.js1717412312146042869 0
 79/home/renan/Documentos/projetos/starter/node_modules/cosmiconfig/dist/util.d.ts1715418195866924099 0
 77/home/renan/Documentos/projetos/starter/node_modules/cosmiconfig/dist/util.js1715418195002455972 0
 80/home/renan/Documentos/projetos/starter/node_modules/cosmiconfig/dist/index.d.ts1715418195822900260 0
@@ -610,6 +817,7 @@
 65/home/renan/Documentos/projetos/starter/node_modules/pend/test.js1709818283778971226 0
 65/home/renan/Documentos/projetos/starter/node_modules/pend/LICENSE1709818283694970597 0
 57/home/renan/Documentos/projetos/starter/node_modules/pend1709818283746970986 1
+78/home/renan/Documentos/projetos/starter/node_modules/html-to-text/package.json1717412312158043187 0
 82/home/renan/Documentos/projetos/starter/node_modules/es6-promisify/dist/promise.js1709818283878971974 0
 84/home/renan/Documentos/projetos/starter/node_modules/es6-promisify/dist/promisify.js1709818283894972094 0
 71/home/renan/Documentos/projetos/starter/node_modules/es6-promisify/dist1709818283878971974 1
@@ -1024,6 +1232,7 @@
 102/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/UTF16SurrogatePairToCodePoint.js1708174493584165502 0
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/IsExtensible.js1708174493372161269 0
 98/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/BigInt/unsignedRightShift.js1708174493576165342 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/stringify.js1717412312194044142 0
 89/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/BigInt/remainder.js1708174493452162867 0
 93/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/BigInt/sameValueZero.js1708174493468163186 0
 96/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/BigInt/signedRightShift.js1708174493480163426 0
@@ -1064,6 +1273,7 @@
 81/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2016/ToObject.js1708174493532164464 0
 80/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2016/ToInt16.js1708174493516164144 0
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2016/HourFromTime.js1708174493344160710 0
+127/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-html.d.ts.map1717412312234045202 0
 80/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2016/WeekDay.js1708174493592165662 0
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2016/StringCreate.js1708174493484163505 0
 86/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2016/IsPropertyKey.js1708174493380161429 0
@@ -1166,6 +1376,7 @@
 86/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/Number/divide.js1708174493248158794 0
 89/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/Number/bitwiseOR.js1708174493112156079 0
 90/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/Number/bitwiseNOT.js1708174493104155919 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/index.js1717412312226044990 0
 89/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/Number/leftShift.js1708174493400161828 0
 88/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/Number/subtract.js1708174493496163745 0
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/StringCreate.js1708174493484163505 0
@@ -1177,6 +1388,7 @@
 101/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/AbstractRelationalComparison.js1708174492876151367 0
 93/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/NewPromiseCapability.js1708174493424162308 0
 81/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/ToLength.js1708174493524164304 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530140236.js1717088556238045306 0
 93/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/StringGetOwnProperty.js1708174493488163585 0
 78/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/floor.js1708174493280159433 0
 90/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/DetachArrayBuffer.js1708174493248158794 0
@@ -1432,6 +1644,7 @@
 89/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/IteratorComplete.js1708174493392161669 0
 81/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/TimeClip.js1708174493508163985 0
 83/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/IsCallable.js1708174493360161030 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode.js1717412312186043930 0
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/ToUint8Clamp.js1708174493564165103 0
 86/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/MonthFromTime.js1708174493412162068 0
 94/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/DefinePropertyOrThrow.js1708174493236158554 0
@@ -1589,6 +1802,7 @@
 99/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/AbstractEqualityComparison.js1708174492848150809 0
 84/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/CodePointAt.js1708174493164157117 0
 91/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/IsConcatSpreadable.js1708174493364161110 0
+73/home/renan/Documentos/projetos/starter/node_modules/html-to-text/LICENSE1717412312114042021 0
 76/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/Set.js1708174493468163186 0
 79/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/Invoke.js1708174493356160950 0
 89/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/IsDetachedBuffer.js1708174493368161190 0
@@ -1971,7 +2185,9 @@
 89/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/debuggability.js1708301307099471449 0
 83/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/finally.js1708301307035469474 0
 82/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/errors.js1708301307079470831 0
+117/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Tokenizer.d.ts.map1717412312318047429 0
 82/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/filter.js1708301307043469721 0
+119/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode_codepoint.js.map1717412312230045096 0
 84/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/nodeback.js1708301307051469968 0
 81/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/async.js1708301307135472559 0
 82/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/settle.js1708301307111471819 0
@@ -2045,6 +2261,7 @@
 77/home/renan/Documentos/projetos/starter/node_modules/dom-serializer/README.md1715418194574221123 0
 90/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/BigInt/bitwiseXOR.js1708174493120156238 0
 75/home/renan/Documentos/projetos/starter/node_modules/dom-serializer/LICENSE1715418193845820570 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/index.js.map1717412312294046793 0
 99/home/renan/Documentos/projetos/starter/node_modules/dom-serializer/node_modules/entities/readme.md1715418194678278188 0
 115/home/renan/Documentos/projetos/starter/node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.d.ts1715418194718300136 0
 113/home/renan/Documentos/projetos/starter/node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.js1715418193909856135 0
@@ -2059,6 +2276,7 @@
 87/home/renan/Documentos/projetos/starter/node_modules/is-generator-function/package.json1708174492368141227 0
 88/home/renan/Documentos/projetos/starter/node_modules/is-generator-function/.eslintignore1708174492068135238 0
 84/home/renan/Documentos/projetos/starter/node_modules/is-generator-function/README.md1708174492460143063 0
+95/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm1717412312114042021 1
 87/home/renan/Documentos/projetos/starter/node_modules/is-generator-function/CHANGELOG.md1708174492420142265 0
 83/home/renan/Documentos/projetos/starter/node_modules/is-generator-function/index.js1708174492300139869 0
 94/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2023/SortIndexedProperties.js1708174493480163426 0
@@ -2315,6 +2533,7 @@
 76/home/renan/Documentos/projetos/starter/node_modules/pug-linker/package.json1714659275690925187 0
 111/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/cjs/syntax/node/index-parse.cjs1715418196495261026 0
 70/home/renan/Documentos/projetos/starter/node_modules/commander/esm.mjs1715418194498179422 0
+102/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/index.d.ts1717412312266046051 0
 100/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/safer-buffer/Porting-Buffer.md1709817889980428502 0
 81/home/renan/Documentos/projetos/starter/node_modules/commander/typings/index.d.ts1715418194574221123 0
 70/home/renan/Documentos/projetos/starter/node_modules/commander/typings1715418194522192591 1
@@ -2699,11 +2918,13 @@
 101/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/docs/rules/group-exports.md1708174493076155360 0
 107/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/docs/rules/no-restricted-paths.md1708174493116156159 0
 130/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/replace/AttributeSelector.js1715418194722302331 0
+73/home/renan/Documentos/projetos/starter/node_modules/peberminta/README.md1717412312150042975 0
 99/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/docs/rules/no-commonjs.md1708174493088155600 0
 79/home/renan/Documentos/projetos/starter/node_modules/@babel/polyfill/browser.js1715594698222742504 0
 63/home/renan/Documentos/projetos/starter/node_modules/optionator1708174492336140588 1
 113/home/renan/Documentos/projetos/starter/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg/.parcelrc1715418196631333791 0
 114/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/docs/rules/no-extraneous-dependencies.md1708174493100155839 0
+114/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/WritableStream.d.ts1717412312330047748 0
 112/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/docs/rules/no-webpack-loader-syntax.md1708174493124156318 0
 93/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/docs/rules/order.md1708174493128156398 0
 119/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/docs/rules/consistent-type-specifier-style.md1708174493056154961 0
@@ -2825,6 +3046,7 @@
 82/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/lib/options.js1708174492664147136 0
 87/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/lib/register.js.map1708174492688147615 0
 91/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/template.js1715418197143606821 0
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Tokenizer.d.ts1717412312330047748 0
 83/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/lib/register.js1708174492680147455 0
 78/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/ui/Types.js.map1709818284374975687 0
 76/home/renan/Documentos/projetos/starter/node_modules/css-select/lib/index.js1715418194874385733 0
@@ -2844,6 +3066,7 @@
 110/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/lib/lexer/generic-an-plus-b.js1715418200637419996 0
 92/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/OverloadYield.js1708174492248138831 0
 94/home/renan/Documentos/projetos/starter/node_modules/npm/docs/output/commands/npm-rebuild.html1709817888896422945 0
+87/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-linuxmusl-x64/README.md1717412313070067368 0
 82/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/src/_type_of.mjs1715418197119594140 0
 103/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/src/__tests__/mapping-entry.test.ts1708174492880151447 0
 105/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/src/__tests__/data/match-path-data.ts1708174492916152166 0
@@ -2860,6 +3083,7 @@
 87/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_array-includes.js1715594697430738986 0
 64/home/renan/Documentos/projetos/starter/node_modules/escape-html1707478016841340320 1
 57/home/renan/Documentos/projetos/starter/views/_header.pug1715961357858419077 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/stringify.d.ts.map1717412312246045520 0
 75/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/LICENSE1708174492112136116 0
 80/home/renan/Documentos/projetos/starter/node_modules/es-set-tostringtag/index.js1708174492136136596 0
 101/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/dpub/docAppendixRole.js1708174492752148892 0
@@ -2883,6 +3107,7 @@
 91/home/renan/Documentos/projetos/starter/node_modules/supports-preserve-symlinks-flag/.nycrc1708174492096135797 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/DM.js1715418196811430098 0
 74/home/renan/Documentos/projetos/starter/node_modules/glob-parent/README.md1708174492180137474 0
+79/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/selderee.d.ts1717412312170043505 0
 72/home/renan/Documentos/projetos/starter/node_modules/glob-parent/LICENSE1708174492072135318 0
 73/home/renan/Documentos/projetos/starter/node_modules/glob-parent/index.js1708174492116136196 0
 77/home/renan/Documentos/projetos/starter/node_modules/balanced-match/README.md1708174492160137075 0
@@ -3025,7 +3250,9 @@
 72/home/renan/Documentos/projetos/starter/node_modules/ordered-binary/dist1715418194742313305 1
 83/home/renan/Documentos/projetos/starter/node_modules/mquery/lib/collection/index.js1708301306987467993 0
 74/home/renan/Documentos/projetos/starter/node_modules/mquery/lib/collection1708301307051469968 1
+130/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-xml.d.ts.map1717412312238045308 0
 97/home/renan/Documentos/projetos/starter/node_modules/@parcel/utils/src/replaceBundleReferences.js1715418206836451527 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/feeds.js.map1717412312214044672 0
 84/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/src/_construct.mjs1715418197083575119 0
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240515110109.js1715781669499156767 0
 73/home/renan/Documentos/projetos/starter/node_modules/mquery/.eslintignore1708301306891465030 0
@@ -3215,6 +3442,7 @@
 80/home/renan/Documentos/projetos/starter/node_modules/resolve/test/precedence/bbb1708174493016154162 1
 97/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/StrictEqualityComparison.js1708174493484163505 0
 105/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-node/lib/rules/no-extraneous-import.js1708174492836150569 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/querying.d.ts1717412312286046581 0
 68/home/renan/Documentos/projetos/starter/node_modules/bson/LICENSE.md1708301307195474411 0
 106/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@sigstore/sign/dist/bundler/index.js1709817889176424380 0
 89/home/renan/Documentos/projetos/starter/node_modules/resolve/test/precedence/aaa/index.js1708174492928152406 0
@@ -3329,6 +3557,7 @@
 101/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/signal-exit/dist/cjs/browser.js1709817888968423314 0
 92/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/node/Parentheses.js1715418196831440799 0
 82/home/renan/Documentos/projetos/starter/node_modules/prettier/plugins/markdown.mjs1708174493272159273 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/stringify.js.map1717412312250045626 0
 81/home/renan/Documentos/projetos/starter/node_modules/prettier/plugins/glimmer.mjs1708174493232158474 0
 71/home/renan/Documentos/projetos/starter/node_modules/prettier/index.cjs1708174492644146736 0
 86/home/renan/Documentos/projetos/starter/node_modules/validator/es/lib/isWhitelisted.js1709809619739110953 0
@@ -3428,6 +3657,7 @@
 72/home/renan/Documentos/projetos/starter/node_modules/@types/node/LICENSE1708301306923466017 0
 83/home/renan/Documentos/projetos/starter/node_modules/@types/node/ts4.8/console.d.ts1708301307335478730 0
 85/home/renan/Documentos/projetos/starter/node_modules/msgpackr-extract/src/extract.cpp1715418194622247461 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/legacy.d.ts.map1717412312230045096 0
 107/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/graphicsSymbolRole.js1708174492932152485 0
 86/home/renan/Documentos/projetos/starter/node_modules/@types/node/ts4.8/dom-events.d.ts1708301307347479100 0
 106/home/renan/Documentos/projetos/starter/node_modules/@parcel/runtime-js/lib/helpers/browser/wasm-loader.js1715418199164665455 0
@@ -3538,6 +3768,7 @@
 71/home/renan/Documentos/projetos/starter/node_modules/globalthis/shim.js1708174492432142504 0
 77/home/renan/Documentos/projetos/starter/node_modules/ansi-styles/package.json1708174492140136675 0
 94/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/es6.typed.uint16-array.js1715594697782740549 0
+63/home/renan/Documentos/projetos/starter/views/email/welcome.pug1717412116633701434 0
 75/home/renan/Documentos/projetos/starter/node_modules/eslint-config-prettier1708174492568145219 1
 93/home/renan/Documentos/projetos/starter/.history/controllers/userController_20240522104455.js1716385495193284050 0
 70/home/renan/Documentos/projetos/starter/node_modules/is-symbol/LICENSE1708174492200137873 0
@@ -3628,6 +3859,7 @@
 61/home/renan/Documentos/projetos/starter/node_modules/anymatch1709818283774971196 1
 72/home/renan/Documentos/projetos/starter/node_modules/on-headers/index.js1707819153484846865 0
 85/home/renan/Documentos/projetos/starter/node_modules/@nodelib/fs.scandir/out/index.js1708174492436142584 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/CHANGELOG.md1717412312138042657 0
 95/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/lib/match-path-async.js.map1708174492628146417 0
 76/home/renan/Documentos/projetos/starter/node_modules/@eslint/js/package.json1708174492340140668 0
 83/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/types/objectid.js1708301307355479347 0
@@ -3692,6 +3924,8 @@
 81/home/renan/Documentos/projetos/starter/.history/views/account_20240514110058.pug1715695258491150921 0
 69/home/renan/Documentos/projetos/starter/node_modules/msgpackr-extract1715418194770328668 1
 82/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/templateSettings.js1712755061049010835 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/encode.js.map1717412312270046157 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/util.mjs1717412312162043293 0
 100/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/libnpmversion/lib/read-json.js1709817889492426000 0
 87/home/renan/Documentos/projetos/starter/node_modules/execa/node_modules/cross-spawn/lib1709818283990972812 1
 78/home/renan/Documentos/projetos/starter/node_modules/asynckit/serialOrdered.js1715594411369379792 0
@@ -3757,6 +3991,7 @@
 82/home/renan/Documentos/projetos/starter/node_modules/@types/node/ts4.8/stream.d.ts1708301307379480088 0
 85/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/public/Terminal.api.js1709818284334975388 0
 88/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/renderer/GridCache.js.map1709818284354975537 0
+78/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/selderee.cjs1717412312126042339 0
 70/home/renan/Documentos/projetos/starter/node_modules/term-size/license1709818283782971256 0
 81/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/public/Terminal.js1709818284334975388 0
 78/home/renan/Documentos/projetos/starter/node_modules/mquery/test/utils.test.js1708301307071470585 0
@@ -3893,6 +4128,7 @@
 73/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-es/lib1708174492968153204 1
 102/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/AlertDialogRole.js1708174492236138592 0
 72/home/renan/Documentos/projetos/starter/node_modules/ndb/lib/launcher.js1709818284374975687 0
+102/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/helpers.js1717412312134042551 0
 92/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/config/warnings.js1708174493032154482 0
 81/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/helpers/once.js1708301307355479347 0
 80/home/renan/Documentos/projetos/starter/node_modules/ndb/node_modules/mime/types1709818283910972214 1
@@ -4051,6 +4287,7 @@
 68/home/renan/Documentos/projetos/starter/node_modules/prettier/doc.js1708174492868151208 0
 64/home/renan/Documentos/projetos/starter/node_modules/.bin/cssesc1715418104644581376 0
 85/home/renan/Documentos/projetos/starter/node_modules/abortcontroller-polyfill/LICENSE1715418194846370370 0
+117/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/manipulation.d.ts.map1717412312230045096 0
 67/home/renan/Documentos/projetos/starter/node_modules/.bin/escodegen1715418104644581376 0
 68/home/renan/Documentos/projetos/starter/node_modules/resolve/sync.js1708174493080155440 0
 70/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/bind.js1712755060828996127 0
@@ -4129,6 +4366,7 @@
 84/home/renan/Documentos/projetos/starter/node_modules/domutils/lib/stringify.d.ts.map1715418194662269409 0
 133/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/invalid_main/package.json1708174493104155919 0
 125/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/_/_class_check_private_static_field_descriptor/package.json1715418196907481461 0
+75/home/renan/Documentos/projetos/starter/node_modules/deepmerge/.eslintcache1717412312110041915 0
 81/home/renan/Documentos/projetos/starter/node_modules/domutils/lib/manipulation.js1715418194093957748 0
 107/home/renan/Documentos/projetos/starter/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/README.md1715418195734852580 0
 84/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/cjs/_ts_values.cjs1715418196655346632 0
@@ -4162,6 +4400,7 @@
 86/home/renan/Documentos/projetos/starter/node_modules/css-select/lib/esm/index.d.ts.map1715418195534744217 0
 71/home/renan/Documentos/projetos/starter/node_modules/has-bigints/.nycrc1708174492092135717 0
 81/home/renan/Documentos/projetos/starter/node_modules/buffer-alloc-unsafe/index.js1709818283858971824 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530142823.js1717090103718534698 0
 59/home/renan/Documentos/projetos/starter/node_modules/base-x1715418195018464641 1
 75/home/renan/Documentos/projetos/starter/node_modules/pug-error/package.json1714659275302920804 0
 85/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/common/EventEmitter.js1709818284274974939 0
@@ -4248,6 +4487,7 @@
 83/home/renan/Documentos/projetos/starter/node_modules/core-js/library/es7/reflect.js1715594698022741616 0
 76/home/renan/Documentos/projetos/starter/node_modules/validator/lib/isISBN.js1709809619715110189 0
 75/home/renan/Documentos/projetos/starter/node_modules/validator/lib/isVAT.js1709809619739110953 0
+120/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/WritableStream.js.map1717412312326047641 0
 83/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/retry/License1709817888748422188 0
 102/home/renan/Documentos/projetos/starter/node_modules/jsonwebtoken/node_modules/semver/classes/index.js1710700248440414545 0
 84/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/CodePointAt.js1708174493164157117 0
@@ -4673,6 +4913,7 @@
 89/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/function/index.js1715594697958741331 0
 89/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-throw-literal.js1708174493256158954 0
 86/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/src/_ts_metadata.mjs1715418197119594140 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/WritableStream.js1717412312294046793 0
 90/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-negated-in-lhs.js1708174493228158395 0
 84/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2021/GetIterator.js1708174493300159832 0
 89/home/renan/Documentos/projetos/starter/node_modules/css-what/lib/commonjs/stringify.d.ts1715418194926414265 0
@@ -4831,7 +5072,9 @@
 117/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/clean/Atrule.js1715418194570218929 0
 83/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/semi-style.js1708174493324160311 0
 82/home/renan/Documentos/projetos/starter/node_modules/js-yaml/lib/schema/default.js1708174492384141546 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/userController_20240530135329.js1717088009369160698 0
 85/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/dot-notation.js1708174492984153523 0
+86/home/renan/Documentos/projetos/starter/node_modules/html-to-text/lib/html-to-text.mjs1717412312226044990 0
 89/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/yallist/iterator.js1709817889340425221 0
 83/home/renan/Documentos/projetos/starter/node_modules/axios/lib/helpers/validator.js1715594412033383193 0
 86/home/renan/Documentos/projetos/starter/node_modules/function.prototype.name/README.md1708174492600145858 0
@@ -4858,6 +5101,7 @@
 87/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/semver/preload.js1709817889452425795 0
 80/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2017/ToIndex.js1708174493516164144 0
 88/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-multi-assign.js1708174493228158395 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/traversal.js.map1717412312258045839 0
 103/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@colors/colors/lib/custom/trap.js1709817889672426923 0
 77/home/renan/Documentos/projetos/starter/node_modules/npm/lib/commands/root.js1709817889560426348 0
 79/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/indent.js1708174493128156398 0
@@ -5186,6 +5430,7 @@
 74/home/renan/Documentos/projetos/starter/node_modules/axe-core/package.json1708174493020154242 0
 69/home/renan/Documentos/projetos/starter/node_modules/for-each/LICENSE1708174492224138352 0
 77/home/renan/Documentos/projetos/starter/node_modules/axe-core/locales/de.json1708174492940152645 0
+74/home/renan/Documentos/projetos/starter/node_modules/selderee/CHANGELOG.md1717412312134042551 0
 88/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/thisStringValue.js1708174493504163905 0
 85/home/renan/Documentos/projetos/starter/node_modules/puppeteer-core/lib/Connection.js1709818284054973291 0
 82/home/renan/Documentos/projetos/starter/node_modules/@types/node/trace_events.d.ts1708301307271476755 0
@@ -5371,6 +5616,7 @@
 89/home/renan/Documentos/projetos/starter/node_modules/puppeteer-core/node6/lib/DOMWorld.js1709818284162974100 0
 80/home/renan/Documentos/projetos/starter/node_modules/bcryptjs/src/bcrypt/util.js1710694335167897992 0
 98/home/renan/Documentos/projetos/starter/node_modules/es-iterator-helpers/Iterator.prototype.reduce1708174493000153843 1
+79/home/renan/Documentos/projetos/starter/node_modules/deepmerge/rollup.config.js1717412312118042127 0
 79/home/renan/Documentos/projetos/starter/node_modules/cookie-signature/Readme.md1707478016841340320 0
 144/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/search/search_module.js1709818316539218495 0
 81/home/renan/Documentos/projetos/starter/node_modules/svgo/plugins/cleanupAttrs.js1715418197775940749 0
@@ -5441,6 +5687,7 @@
 71/home/renan/Documentos/projetos/starter/node_modules/constantinople/src1714659275334921166 1
 66/home/renan/Documentos/projetos/starter/node_modules/lmdb/index.js1715418201906059719 0
 96/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_create-property.js1715594697446739057 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/util.cjs1717412312134042551 0
 87/home/renan/Documentos/projetos/starter/node_modules/type-fest/ts41/delimiter-case.d.ts1708174492476143383 0
 97/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/codeRole.js1708174492680147455 0
 78/home/renan/Documentos/projetos/starter/node_modules/type-fest/ts41/index.d.ts1708174492596145778 0
@@ -5466,6 +5713,7 @@
 118/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/prefixIds.js1715418195502726879 0
 87/home/renan/Documentos/projetos/starter/node_modules/type-fest/source/set-optional.d.ts1708174492704147934 0
 96/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-useless-computed-key.js1708174493272159273 0
+87/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities1717412311950037672 1
 62/home/renan/Documentos/projetos/starter/node_modules/csso/dist1715418196507267447 1
 81/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linux-x641716382547553180581 1
 92/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/options/PopulateOptions.js1708301307359479471 0
@@ -5519,6 +5767,7 @@
 71/home/renan/Documentos/projetos/starter/node_modules/es-errors/ref.d.ts1707478016889341436 0
 72/home/renan/Documentos/projetos/starter/node_modules/@parcel/workers/src1715418199180673700 1
 87/home/renan/Documentos/projetos/starter/node_modules/arraybuffer.prototype.slice/.nycrc1708174492180137474 0
+124/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-xml.js.map1717412312246045520 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/MO.js1715418197031547644 0
 98/home/renan/Documentos/projetos/starter/node_modules/npm/docs/content/commands/npm-install-test.md1709817889952428358 0
 92/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/array/copy-within.js1715594697610739785 0
@@ -5657,8 +5906,10 @@
 94/home/renan/Documentos/projetos/starter/node_modules/sharp/node_modules/semver/functions/gt.js1716382546609156122 0
 96/home/renan/Documentos/projetos/starter/node_modules/@parcel/packager-wasm/lib/wasm-sourcemap.js1715418196147074833 0
 97/home/renan/Documentos/projetos/starter/node_modules/sharp/node_modules/semver/functions/patch.js1716382546649157158 0
+127/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm/node.d.ts.map1717412312162043293 0
 75/home/renan/Documentos/projetos/starter/node_modules/is-number/package.json1709818283622970058 0
 94/home/renan/Documentos/projetos/starter/node_modules/sharp/node_modules/semver/functions/eq.js1716382546609156122 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/package.json1717412312210044566 0
 88/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/env-paths/index.js1709817889212424564 0
 95/home/renan/Documentos/projetos/starter/node_modules/sharp/node_modules/semver/functions/neq.js1716382546633156743 0
 83/home/renan/Documentos/projetos/starter/node_modules/lodash/_baseMatchesProperty.js1712755060732989708 0
@@ -5704,6 +5955,7 @@
 115/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linux-x64/lib/glib-2.0/include/glibconfig.h1716382547549180478 0
 96/home/renan/Documentos/projetos/starter/node_modules/jsx-ast-utils/__tests__/src/hasProp-test.js1708174492804149930 0
 84/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/jsonparse/test1709817889696427046 1
+116/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/encode-html.js1717412312214044672 0
 90/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-html/package.json1715418199160663393 0
 96/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/libnpmversion/lib/index.js1709817889240424708 0
 69/home/renan/Documentos/projetos/starter/node_modules/mquery/README.md1708301307103471572 0
@@ -5725,6 +5977,7 @@
 90/home/renan/Documentos/projetos/starter/node_modules/array.prototype.flatmap/test/index.js1708174492356140987 0
 96/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/helpers/schema/applyPlugins.js1708301307035469474 0
 74/home/renan/Documentos/projetos/starter/node_modules/entities/lib/index.js1715418195062488481 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm/index.js1717412312130042445 0
 94/home/renan/Documentos/projetos/starter/node_modules/sharp/node_modules/semver/functions/lt.js1716382546625156536 0
 77/home/renan/Documentos/projetos/starter/node_modules/lodash/_stringToArray.js1712755060808994790 0
 92/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/src/_iterable_to_array.mjs1715418197099583573 0
@@ -6071,6 +6324,7 @@
 82/home/renan/Documentos/projetos/starter/.history/public/js/index_20240518111227.js1716041547316819768 0
 93/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-js/node_modules/.bin1715418301720567525 1
 128/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/function/var.js1715418196651344492 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm/package.json1717412312146042869 0
 87/home/renan/Documentos/projetos/starter/node_modules/has-property-descriptors/.eslintrc1708174492184137554 0
 90/home/renan/Documentos/projetos/starter/node_modules/ndb/node_modules/debug/src/browser.js1709818283746970986 0
 89/home/renan/Documentos/projetos/starter/node_modules/ndb/node_modules/debug/src/common.js1709818283774971196 0
@@ -6160,6 +6414,7 @@
 66/home/renan/Documentos/projetos/starter/node_modules/is-ci/LICENSE1709818283746970986 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/OM.js1715418197047556098 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/PT.js1715418197067566665 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/index.d.ts.map1717412312158043187 0
 101/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/mdn-data/css/types.schema.json1715418204411292680 0
 75/home/renan/Documentos/projetos/starter/node_modules/mongodb/lib/core/tools1708301307327478483 1
 84/home/renan/Documentos/projetos/starter/node_modules/validator/es/lib/isMailtoURI.js1709809619723110444 0
@@ -6246,10 +6501,12 @@
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/IE.js1715418196947502863 0
 73/home/renan/Documentos/projetos/starter/node_modules/color-string/LICENSE1716382546553154671 0
 78/home/renan/Documentos/projetos/starter/node_modules/chalk/source/templates.js1708174492180137474 0
+114/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm/package.json1717412312142042763 0
 139/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/pseudo/nth-last-of-type.js1715418196547288848 0
 82/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_is-object.js1715594697466739146 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/MD.js1715418197019541304 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/AM.js1715418195042477645 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530135708.js1717088228208076640 0
 109/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-js/node_modules/semver/bin/semver.js1715418196167085534 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/SA.js1715418197095581460 0
 126/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/profile-624492/Default/data_reduction_proxy_leveldb1714566154098686596 1
@@ -6445,6 +6702,7 @@
 94/home/renan/Documentos/projetos/starter/node_modules/es6-promise/dist/es6-promise.auto.min.map1709818284066973381 0
 89/home/renan/Documentos/projetos/starter/node_modules/is-number-object/.github/FUNDING.yml1708174492444142744 0
 98/home/renan/Documentos/projetos/starter/node_modules/@parcel/reporter-tracer/lib/TracerReporter.js1715418196435228924 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/index.d.ts1717412312326047641 0
 84/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/GetIterator.js1708174493300159832 0
 130/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/object_ui1709818316711219804 1
 158/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/emulated_devices/iPhone5-portrait.svg1709818316619219104 0
@@ -6470,6 +6728,7 @@
 103/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/minipass-json-stream/node_modules1709817888712422004 1
 76/home/renan/Documentos/projetos/starter/node_modules/content-type/HISTORY.md1707478016841340320 0
 100/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/listboxRole.js1708174492976153364 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated1717412312118042127 1
 108/home/renan/Documentos/projetos/starter/node_modules/jsx-ast-utils/src/values/expressions/ChainExpression.js1708174492564145139 0
 71/home/renan/Documentos/projetos/starter/node_modules/lodash/methodOf.js1712755060957004686 0
 92/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-implicit-globals.js1708174493216158155 0
@@ -6541,6 +6800,7 @@
 92/home/renan/Documentos/projetos/starter/node_modules/eslint/node_modules/debug/src/common.js1708174492188137634 0
 92/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/xhtmlsmil.js1715418197183627956 0
 71/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/isMap.js1712755060929002814 0
+120/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/encode-html.js.map1717412312266046051 0
 89/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-control-regex.js1708174493196157756 0
 75/home/renan/Documentos/projetos/starter/node_modules/@babel/types/lib/clone1714659275498923018 1
 103/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/helpers/query/applyGlobalMaxTimeMS.js1708301307019468980 0
@@ -6617,6 +6877,7 @@
 71/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/floor.js1712755060876999337 0
 88/home/renan/Documentos/projetos/starter/node_modules/@humanwhocodes/module-importer/dist1708174492436142584 1
 68/home/renan/Documentos/projetos/starter/node_modules/bson/HISTORY.md1708301307191474287 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/traversal.d.ts.map1717412312254045732 0
 71/home/renan/Documentos/projetos/starter/node_modules/error-ex/README.md1715418193917860580 0
 73/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/isEmpty.js1712755060925002546 0
 70/home/renan/Documentos/projetos/starter/node_modules/lodash/_getTag.js1712755060776992650 0
@@ -6673,6 +6934,7 @@
 81/home/renan/Documentos/projetos/starter/node_modules/resolve/test/resolver/foo.js1708174492760149052 0
 75/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/isWeakSet.js1712755060937003348 0
 96/home/renan/Documentos/projetos/starter/node_modules/xterm/dist/addons/fullscreen/fullscreen.css1709818284058973321 0
+71/home/renan/Documentos/projetos/starter/node_modules/peberminta/LICENSE1717412312110041915 0
 78/home/renan/Documentos/projetos/starter/node_modules/validator/lib/isLength.js1709809619723110444 0
 111/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/lib/rules/static-property-placement.js1708174493120156238 0
 100/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/RowHeaderRole.js1708174492908152006 0
@@ -6765,6 +7027,7 @@
 96/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/glob/dist/esm/processor.js1709817889460425836 0
 109/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/npm-audit-report/lib/reporters/quiet.js1709817889488425979 0
 85/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/_/_jsx/package.json1715418197011537077 0
+74/home/renan/Documentos/projetos/starter/node_modules/selderee/lib/Ast.d.ts1717412312162043293 0
 97/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/mainRole.js1708174492980153444 0
 72/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/filter.js1712755060864998534 0
 88/home/renan/Documentos/projetos/starter/node_modules/lmdb/dependencies/lz4/lib/lz4file.h1715418201902057709 0
@@ -6971,6 +7234,7 @@
 64/home/renan/Documentos/projetos/starter/node_modules/express/lib1707478016889341436 1
 90/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/outline.js1715418197047556098 0
 72/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/zipObj.js1712755061077012706 0
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Parser.d.ts.map1717412312314047323 0
 101/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/lib/rules/button-has-type.js1708174492468143223 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/BT.js1715418196143072693 0
 63/home/renan/Documentos/projetos/starter/node_modules/mkdirp/bin1709818283838971675 1
@@ -7175,6 +7439,7 @@
 90/home/renan/Documentos/projetos/starter/node_modules/tsconfig-paths/src/tsconfig-loader.ts1708174492764149132 0
 70/home/renan/Documentos/projetos/starter/node_modules/is-async-function1708174492368141227 1
 67/home/renan/Documentos/projetos/starter/node_modules/puppeteer-core1709818284130973860 1
+62/home/renan/Documentos/projetos/starter/node_modules/@selderee1717412311950037672 1
 80/home/renan/Documentos/projetos/starter/node_modules/is-typed-array/package.json1708174492312140109 0
 92/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/minipass/dist/commonjs1709817889828427722 1
 58/home/renan/Documentos/projetos/starter/node_modules/isexe1708174492224138352 1
@@ -7501,6 +7766,7 @@
 100/home/renan/Documentos/projetos/starter/node_modules/string_decoder/node_modules/safe-buffer/LICENSE1708301306783461696 0
 89/home/renan/Documentos/projetos/starter/node_modules/reflect.getprototypeof/test/index.js1708174492380141466 0
 78/home/renan/Documentos/projetos/starter/node_modules/color-string/package.json1716382546561154878 0
+97/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/readme.md1717412312258045839 0
 96/home/renan/Documentos/projetos/starter/node_modules/ndb/.local-frontend/Images/chromeSelect.png1709818284214974489 0
 68/home/renan/Documentos/projetos/starter/node_modules/lodash/isSet.js1712755060937003348 0
 77/home/renan/Documentos/projetos/starter/node_modules/is-date-object/README.md1708174492428142424 0
@@ -7519,6 +7785,7 @@
 77/home/renan/Documentos/projetos/starter/node_modules/lodash/takeRightWhile.js1712755061049010835 0
 112/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/wrap-ansi/node_modules/ansi-regex/index.js1709817889320425118 0
 68/home/renan/Documentos/projetos/starter/node_modules/lodash/index.js1712755060893000407 0
+95/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm1717412312110041915 1
 81/home/renan/Documentos/projetos/starter/node_modules/htmlnano/lib/presets/max.cjs1715418195262596844 0
 83/home/renan/Documentos/projetos/starter/node_modules/es-abstract/5/TimeWithinDay.js1708174493512164064 0
 88/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/clone/package.json1709817889784427497 0
@@ -7877,6 +8144,7 @@
 71/home/renan/Documentos/projetos/starter/node_modules/lodash/uniqWith.js1712755061061011637 0
 94/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/renderer/atlas/NoneCharAtlas.js1709818284342975448 0
 78/home/renan/Documentos/projetos/starter/node_modules/token-stream/package.json1714659275186919494 0
+109/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib1717412312106041808 1
 103/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/navigationRole.js1708174493000153843 0
 109/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/esm/defineEnumerableProperties.js1708174492980153444 0
 93/home/renan/Documentos/projetos/starter/node_modules/npm/docs/output/commands/npm-update.html1709817888904422986 0
@@ -7935,6 +8203,7 @@
 80/home/renan/Documentos/projetos/starter/node_modules/ajv/lib/dot/definitions.def1708174492388141626 0
 76/home/renan/Documentos/projetos/starter/node_modules/safe-regex-test/.github1708174492444142744 1
 90/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/esm/toArray.js1708174493072155280 0
+125/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/decode-data-html.js.map1717412312234045202 0
 97/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/esm/defineProperty.js1708174492980153444 0
 104/home/renan/Documentos/projetos/starter/node_modules/@babel/types/lib/comments/inheritLeadingComments.js1714659275506923108 0
 100/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/SetTypedArrayFromTypedArray.js1708174493476163346 0
@@ -8247,6 +8516,7 @@
 91/home/renan/Documentos/projetos/starter/node_modules/@parcel/package-manager/lib/types.d.ts1715418207648831785 0
 79/home/renan/Documentos/projetos/starter/node_modules/bson/browser_build/bson.js1708301307111471819 0
 80/home/renan/Documentos/projetos/starter/node_modules/@types/node/ts4.8/path.d.ts1708301307371479841 0
+81/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser21717412311950037672 1
 77/home/renan/Documentos/projetos/starter/node_modules/axe-core/locales/pl.json1708174493028154402 0
 69/home/renan/Documentos/projetos/starter/node_modules/carlo/rpc/rpc.md1709818284054973291 0
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2023/RegExpCreate.js1708174493448162787 0
@@ -8359,6 +8629,7 @@
 73/home/renan/Documentos/projetos/starter/node_modules/registry-url/license1709818283746970986 0
 98/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/library/es6.date.to-string.js1715594697682740105 0
 97/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo1715418196463243905 1
+122/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm/index.js1717412312118042127 0
 121/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/locales/fil.pak.info1709818315351209456 0
 94/home/renan/Documentos/projetos/starter/node_modules/xss-filters/dist/xss-filters.1.2.7.min.js1712753462429581519 0
 82/home/renan/Documentos/projetos/starter/node_modules/npm/man/man1/npm-run-script.11709817888828422597 0
@@ -8459,6 +8730,7 @@
 105/home/renan/Documentos/projetos/starter/node_modules/@babel/types/lib/validators/isPlaceholderType.js.map1714659275782926226 0
 82/home/renan/Documentos/projetos/starter/node_modules/svgo/plugins/removeViewBox.js1715418197811959770 0
 77/home/renan/Documentos/projetos/starter/node_modules/mpath/test/.eslintrc.yml1708301307039469597 0
+51/home/renan/Documentos/projetos/starter/views/email1717412106773439887 1
 64/home/renan/Documentos/projetos/starter/node_modules/pug-runtime1714659275314920940 1
 98/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/options/SchemaObjectIdOptions.js1708301307375479964 0
 72/home/renan/Documentos/projetos/starter/node_modules/json5/dist/index.js1708174492192137713 0
@@ -8536,6 +8808,7 @@
 70/home/renan/Documentos/projetos/starter/node_modules/reusify/README.md1708174492196137793 0
 111/home/renan/Documentos/projetos/starter/node_modules/@parcel/reporter-cli/node_modules/term-size/vendor/windows1715418195662813569 1
 70/home/renan/Documentos/projetos/starter/node_modules/entities/lib/maps1715418195250590342 1
+128/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-xml.js.map1717412312242045414 0
 73/home/renan/Documentos/projetos/starter/node_modules/buffer-crc32/LICENSE1709818283694970597 0
 111/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/__mocks__/JSXSpreadAttributeMock.js1708174493056154961 0
 99/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2018/AbstractEqualityComparison.js1708174492844150729 0
@@ -8611,6 +8884,7 @@
 89/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/cjs/_inherits_loose.cjs1715418196563297409 0
 75/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/upperCase.js1712755061065011904 0
 79/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/dropLastWhile.js1712755060852997732 0
+78/home/renan/Documentos/projetos/starter/node_modules/html-to-text/CHANGELOG.md1717412312170043505 0
 81/home/renan/Documentos/projetos/starter/node_modules/chrome-trace-event/README.md1715418193981896145 0
 84/home/renan/Documentos/projetos/starter/node_modules/which-typed-array/tsconfig.json1708174492408142025 0
 82/home/renan/Documentos/projetos/starter/node_modules/body-parser/lib/types/text.js1707478016877341157 0
@@ -8909,6 +9183,7 @@
 70/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/wrap.js1712755061069012171 0
 96/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/BigInt/signedRightShift.js1708174493480163426 0
 107/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Comment.cjs1715418195606783228 0
+77/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/core.d.ts1717412312206044460 0
 81/home/renan/Documentos/projetos/starter/node_modules/constantinople/.editorconfig1714659275258920307 0
 122/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/profile-624492/Default/Cache/32014759d49bc669_01714566172661288011 0
 104/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/__mocks__/genInteractives.js1708174492848150809 0
@@ -8933,6 +9208,7 @@
 74/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/ssri1709817889936428276 1
 69/home/renan/Documentos/projetos/starter/node_modules/is-npm/readme.md1709818283826971585 0
 75/home/renan/Documentos/projetos/starter/node_modules/form-data/package.json1715594411377379833 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/char.cjs1717412312118042127 0
 97/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/esm/writeOnlyError.js1708174493084155520 0
 65/home/renan/Documentos/projetos/starter/node_modules/range-parser1707478016841340320 1
 76/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/isFunction.js1712755060929002814 0
@@ -9045,6 +9321,7 @@
 60/home/renan/Documentos/projetos/starter/node_modules/npm/man1709817888844422679 1
 69/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/ary.js1712755060820995592 0
 63/home/renan/Documentos/projetos/starter/node_modules/base-x/src1715418195046479812 1
+119/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/glib-2.0/include/glibconfig.h1717412314022092608 0
 92/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/lib/rules/first.js1708174492688147615 0
 79/home/renan/Documentos/projetos/starter/node_modules/has-tostringtag/shams.d.ts1708174492608146018 0
 84/home/renan/Documentos/projetos/starter/node_modules/bluebird/js/release/schedule.js1708301307107471695 0
@@ -9103,6 +9380,7 @@
 70/home/renan/Documentos/projetos/starter/node_modules/sift/package.json1708301306995468240 0
 86/home/renan/Documentos/projetos/starter/node_modules/xterm/src/addons/search/search.ts1709818284382975747 0
 102/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/lib/syntax/node/Nth.js1715418203554875273 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/stringify.js1717412312174043611 0
 65/home/renan/Documentos/projetos/starter/node_modules/csso/LICENSE1715418193849822793 0
 91/home/renan/Documentos/projetos/starter/node_modules/reflect.getprototypeof/test/shimmed.js1708174492448142824 0
 91/home/renan/Documentos/projetos/starter/node_modules/@parcel/core/lib/public/BundleGraph.js1715418201966089882 0
@@ -9112,7 +9390,7 @@
 70/home/renan/Documentos/projetos/starter/node_modules/strip-eof/license1709818283690970567 0
 142/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/Images/chromeLeft.png1709818316791220412 0
 90/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/netinfo.js1715418197039551871 0
-50/home/renan/Documentos/projetos/starter/config.env1712668323058786312 0
+50/home/renan/Documentos/projetos/starter/config.env1717411109174951557 0
 75/home/renan/Documentos/projetos/starter/node_modules/ndb/front_end/ndb.html1709818284366975627 0
 72/home/renan/Documentos/projetos/starter/node_modules/locate-path/license1708174492068135238 0
 80/home/renan/Documentos/projetos/starter/node_modules/is-binary-path/package.json1709818283646970238 0
@@ -9664,6 +9942,7 @@
 80/home/renan/Documentos/projetos/starter/node_modules/validator/es/lib/isAscii.js1709809619695109552 0
 93/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/diff/lib/patch/parse.js1709817889436425713 0
 113/home/renan/Documentos/projetos/starter/node_modules/jsx-ast-utils/__tests__/src/getPropValue-babelparser-test.js1708174492764149132 0
+122/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/encode-html.d.ts1717412312314047323 0
 102/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/semver/internal/parse-options.js1709817889432425692 0
 79/home/renan/Documentos/projetos/starter/node_modules/validator/lib/isISO8601.js1709809619723110444 0
 75/home/renan/Documentos/projetos/starter/node_modules/validator/lib/isHSL.js1709809619707109934 0
@@ -9784,6 +10063,7 @@
 95/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/npm-packlist/package.json1709817889840427784 0
 89/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/tar/lib/mode-fix.js1709817889384425446 0
 74/home/renan/Documentos/projetos/starter/node_modules/@parcel/types/LICENSE1715418196363190401 0
+61/home/renan/Documentos/projetos/starter/node_modules/selderee1717412311946037566 1
 89/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/core.get-iterator.js1715594697614739803 0
 57/home/renan/Documentos/projetos/starter/views/_footer.pug1714827193377013420 0
 93/home/renan/Documentos/projetos/starter/node_modules/@eslint-community/eslint-utils/README.md1708174492632146497 0
@@ -10030,6 +10310,7 @@
 78/home/renan/Documentos/projetos/starter/node_modules/cookie-signature/index.js1707478016829340041 0
 87/home/renan/Documentos/projetos/starter/node_modules/eslint/messages/no-config-found.js1708174493192157676 0
 82/home/renan/Documentos/projetos/starter/node_modules/htmlnano/lib/presets/safe.mjs1715418201886049665 0
+106/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/helpers.js1717412312130042445 0
 84/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/regions/YE.js1715418197183627956 0
 100/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-node/lib/util/get-convert-path.js1708174492744148732 0
 76/home/renan/Documentos/projetos/starter/node_modules/lodash/_stringToPath.js1712755060808994790 0
@@ -10047,6 +10328,7 @@
 118/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/replace/index.js1715418195646804900 0
 86/home/renan/Documentos/projetos/starter/node_modules/@parcel/graph/lib/ContentGraph.js1715418196331173280 0
 66/home/renan/Documentos/projetos/starter/node_modules/form-data/lib1715594411357379730 1
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/index.d.ts.map1717412312302047005 0
 93/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/lines-around-comment.js1708174493156156957 0
 97/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/minipass-fetch/lib/index.js1709817889248424749 0
 69/home/renan/Documentos/projetos/starter/node_modules/.bin/detect-libc1715418301720567525 0
@@ -10249,6 +10531,7 @@
 114/home/renan/Documentos/projetos/starter/node_modules/@babel/types/lib/retrievers/getOuterBindingIdentifiers.js.map1714659275754925910 0
 94/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/setFunctionName.js1708174493128156398 0
 76/home/renan/Documentos/projetos/starter/node_modules/lodash/_baseAssignIn.js1712755060700987569 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm/node.js1717412312130042445 0
 91/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/chalk/source/index.js1709817889196424482 0
 76/home/renan/Documentos/projetos/starter/node_modules/@types/node/module.d.ts1708301307223475274 0
 76/home/renan/Documentos/projetos/starter/node_modules/lodash/_asciiToArray.js1712755060696987301 0
@@ -10379,6 +10662,7 @@
 66/home/renan/Documentos/projetos/starter/node_modules/mpath/LICENSE1708301306927466141 0
 71/home/renan/Documentos/projetos/starter/node_modules/@parcel/logger/src1715418196599316670 1
 61/home/renan/Documentos/projetos/starter/node_modules/readdirp1709818283838971675 1
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Parser.d.ts1717412312330047748 0
 106/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/cjs/syntax/atrule/page.cjs1715418197671885798 0
 110/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/rebuild.js1709817889516426123 0
 81/home/renan/Documentos/projetos/starter/node_modules/@humanwhocodes/object-schema1708174492528144421 1
@@ -10406,6 +10690,7 @@
 97/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/profile-624492/Default1714566173681426876 1
 74/home/renan/Documentos/projetos/starter/node_modules/sharp/src/utilities.h1716382546637156847 0
 79/home/renan/Documentos/projetos/starter/node_modules/resolve/test/home_paths.js1708174492800149850 0
+115/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/readme.md1717412312166043399 0
 110/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/lib/rules/jsx-no-comment-textnodes.js1708174492876151367 0
 106/home/renan/Documentos/projetos/starter/node_modules/@babel/helper-validator-identifier/lib/keyword.js.map1714659275366921527 0
 99/home/renan/Documentos/projetos/starter/node_modules/chokidar/node_modules/glob-parent/package.json1709818283746970986 0
@@ -10626,6 +10911,7 @@
 103/home/renan/Documentos/projetos/starter/node_modules/@parcel/runtime-js/src/helpers/node/wasm-loader.js1715418199168667516 0
 109/home/renan/Documentos/projetos/starter/node_modules/eslint-import-resolver-node/node_modules/debug/README.md1708174492444142744 0
 71/home/renan/Documentos/projetos/starter/node_modules/lodash/_overArg.js1712755060800994255 0
+67/home/renan/Documentos/projetos/starter/node_modules/leac/README.md1717412312130042445 0
 85/home/renan/Documentos/projetos/starter/node_modules/type-fest/source/promisable.d.ts1708174492688147615 0
 79/home/renan/Documentos/projetos/starter/node_modules/@nodelib/fs.stat/out/types1708174492580145459 1
 45/home/renan/Documentos/projetos/starter/views1715960816102546045 1
@@ -10642,6 +10928,7 @@
 89/home/renan/Documentos/projetos/starter/node_modules/carlo/node_modules/debug/src/node.js1709818283846971735 0
 72/home/renan/Documentos/projetos/starter/node_modules/pug-lexer/README.md1714659275702925322 0
 100/home/renan/Documentos/projetos/starter/node_modules/jsx-ast-utils/__tests__/src/elementType-test.js1708174492628146417 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/encode.d.ts.map1717412312270046157 0
 71/home/renan/Documentos/projetos/starter/node_modules/express/History.md1707478016893341529 0
 77/home/renan/Documentos/projetos/starter/node_modules/htmlnano/lib/helpers.cjs1715418195166544830 0
 67/home/renan/Documentos/projetos/starter/node_modules/@pkgr/core/lib1708174492652146896 1
@@ -11274,6 +11561,7 @@
 72/home/renan/Documentos/projetos/starter/node_modules/htmlnano/index.d.ts1715418201886049665 0
 84/home/renan/Documentos/projetos/starter/node_modules/pug-runtime/lib/dependencies.js1714659275274920488 0
 160/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/workspace_diff/workspace_diff_module.js1709818316663219438 0
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode_codepoint.d.ts1717412312298046899 0
 96/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js1708174492996153763 0
 99/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-node/lib/rules/no-process-env.js1708174492864151128 0
 102/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/lib/tokenizer/names.js1715418203554875273 0
@@ -11462,6 +11750,7 @@
 122/home/renan/Documentos/projetos/starter/node_modules/@babel/types/lib/modifications/typescript/removeTypeDuplicates.js.map1714659275750925864 0
 81/home/renan/Documentos/projetos/starter/node_modules/resolve/test/node_path/x/aaa1708174492876151367 1
 101/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/semver/ranges/max-satisfying.js1709817889372425385 0
+97/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib1717412312106041808 1
 101/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/dpub/docEndnotesRole.js1708174492804149930 0
 99/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js1708174493104155919 0
 87/home/renan/Documentos/projetos/starter/node_modules/json-schema-traverse/.eslintrc.yml1708174492112136116 0
@@ -11898,6 +12187,7 @@
 67/home/renan/Documentos/projetos/starter/node_modules/@types/mongodb1708301308047500698 1
 82/home/renan/Documentos/projetos/starter/node_modules/svgo/plugins/removeDoctype.js1715418197803955543 0
 106/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/focusin-focusout-events.js1715418196903479321 0
+98/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/package.json1717412314022092608 0
 67/home/renan/Documentos/projetos/starter/node_modules/mongoose/tools1708301307383480211 1
 93/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/diff/lib/patch/merge.js1709817889376425405 0
 72/home/renan/Documentos/projetos/starter/node_modules/lodash/_nodeUtil.js1712755060796993988 0
@@ -12192,6 +12482,7 @@
 88/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/space-infix-ops.js1708174493336160551 0
 71/home/renan/Documentos/projetos/starter/node_modules/clone/package.json1715418193849822793 0
 104/home/renan/Documentos/projetos/starter/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.11715418195902943605 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/package.json1717412312134042551 0
 67/home/renan/Documentos/projetos/starter/node_modules/carlo/index.js1709818283898972124 0
 97/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/linkRole.js1708174492972153284 0
 81/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/array/iterator.js1715594697974741402 0
@@ -12206,6 +12497,7 @@
 90/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/core/buffer/BufferReflow.js1709818284294975088 0
 163/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/emulated_devices/iPhone6Plus-landscape.svg1709818316639219256 0
 92/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/rest-spread-spacing.js1708174493316160151 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530135615.js1717088175533041185 0
 75/home/renan/Documentos/projetos/starter/node_modules/update-browserslist-db1715418194017916047 1
 103/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/radiogroupRole.js1708174493012154082 0
 84/home/renan/Documentos/projetos/starter/node_modules/update-browserslist-db/utils.js1715418193961885031 0
@@ -12447,6 +12739,7 @@
 82/home/renan/Documentos/projetos/starter/node_modules/is-array-buffer/tsconfig.json1708174492380141466 0
 88/home/renan/Documentos/projetos/starter/node_modules/leaflet/src/layer/tile/TileLayer.js1715000844791095328 0
 75/home/renan/Documentos/projetos/starter/node_modules/duplexer3/package.json1709818283850971765 0
+125/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/generated/decode-data-html.js1717412312134042551 0
 99/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-node/lib/rules/no-new-require.js1708174492852150888 0
 92/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/helpers/getFunctionName.js1708301307303477743 0
 87/home/renan/Documentos/projetos/starter/node_modules/leaflet/src/layer/vector/Circle.js1715000844471098367 0
@@ -12590,6 +12883,7 @@
 91/home/renan/Documentos/projetos/starter/node_modules/bson/lib/bson/parser/calculate_size.js1708301307127472312 0
 94/home/renan/Documentos/projetos/starter/node_modules/npm/docs/output/commands/npm-adduser.html1709817888872422823 0
 78/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/addons/webLinks1709818284250974759 1
+116/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm/index.d.ts.map1717412312158043187 0
 115/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/locales/hr.pak1709818315691212043 0
 90/home/renan/Documentos/projetos/starter/node_modules/npm/docs/content/commands/npm-team.md1709817889968428440 0
 100/home/renan/Documentos/projetos/starter/node_modules/ndb/.local-frontend/Images/profileGroupIcon.png1709818284222974549 0
@@ -13050,6 +13344,7 @@
 92/home/renan/Documentos/projetos/starter/node_modules/css-tree/cjs/tokenizer/adopt-buffer.cjs1715418193961885031 0
 63/home/renan/Documentos/projetos/starter/node_modules/globalthis1708174492504143942 1
 103/home/renan/Documentos/projetos/starter/node_modules/es-iterator-helpers/Iterator.prototype/polyfill.js1708174492980153444 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/querying.js1717412312166043399 0
 76/home/renan/Documentos/projetos/starter/node_modules/ajv/lib/dotjs/custom.js1708174492804149930 0
 69/home/renan/Documentos/projetos/starter/node_modules/lodash/assign.js1712755060820995592 0
 89/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/cacache/lib/content1709817889724427189 1
@@ -13196,6 +13491,7 @@
 76/home/renan/Documentos/projetos/starter/node_modules/negotiator/package.json1707478016865340878 0
 145/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/cpu_profiler_test_runner1709818316951221630 1
 124/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-posthtml/node_modules/semver/functions/satisfies.js1715418195954971779 0
+75/home/renan/Documentos/projetos/starter/node_modules/deepmerge/changelog.md1717412312134042551 0
 75/home/renan/Documentos/projetos/starter/node_modules/validator/lib/isInt.js1709809619715110189 0
 110/home/renan/Documentos/projetos/starter/node_modules/@babel/types/lib/retrievers/getOuterBindingIdentifiers.js1714659275754925910 0
 75/home/renan/Documentos/projetos/starter/node_modules/finalhandler/README.md1707478016861340785 0
@@ -13306,6 +13602,7 @@
 72/home/renan/Documentos/projetos/starter/node_modules/body-parser/LICENSE1707478016829340041 0
 81/home/renan/Documentos/projetos/starter/node_modules/type-fest/source/opaque.d.ts1708174492656146976 0
 87/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/CompositionHelper.js.map1709818284286975028 0
+70/home/renan/Documentos/projetos/starter/node_modules/leac/lib/leac.cjs1717412312118042127 0
 69/home/renan/Documentos/projetos/starter/node_modules/hasown/.eslintrc1708174492184137554 0
 66/home/renan/Documentos/projetos/starter/node_modules/bl/LICENSE.md1708301306911465647 0
 97/home/renan/Documentos/projetos/starter/node_modules/@parcel/runtime-js/src/helpers/bundle-url.js1715418196487256746 0
@@ -13419,6 +13716,7 @@
 87/home/renan/Documentos/projetos/starter/node_modules/execa/node_modules/which/README.md1709818283774971196 0
 74/home/renan/Documentos/projetos/starter/node_modules/lodash/_reEvaluate.js1712755060800994255 0
 120/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/tokenizer/index.js1715418196479252466 0
+93/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib1717412312106041808 1
 101/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/cli-engine/formatters/visualstudio.js1708174493348160790 0
 81/home/renan/Documentos/projetos/starter/node_modules/puppeteer-core/lib/Worker.js1709818284130973860 0
 89/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2023/CompletionRecord.js1708174493184157516 0
@@ -13637,6 +13935,7 @@
 135/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js1715418195794885089 0
 123/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/chrome_200_percent.pak1709818316231216151 0
 89/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/profile-6244921714566173369384441 1
+113/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/Tokenizer.d.ts.map1717412312318047429 0
 66/home/renan/Documentos/projetos/starter/node_modules/xss-clean/lib1712753462417580278 1
 100/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/cjs/_skip_first_generator_next.cjs1715418196631333791 0
 70/home/renan/Documentos/projetos/starter/node_modules/is-weakset/.nycrc1708174492188137634 0
@@ -13752,6 +14051,7 @@
 90/home/renan/Documentos/projetos/starter/node_modules/boxen/node_modules/color-name/LICENSE1709818283774971196 0
 125/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/convertor/create.js1715418195014462474 0
 74/home/renan/Documentos/projetos/starter/node_modules/@parcel/cache/LICENSE1715418195966978281 0
+100/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/index.js1717412312138042657 0
 99/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/dialogRole.js1708174492728148413 0
 87/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/defaults.js1708174492768149212 0
 102/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/cjs/_possible_constructor_return.cjs1715418196615325231 0
@@ -14100,6 +14400,7 @@
 88/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-invalid-this.js1708174493216158155 0
 68/home/renan/Documentos/projetos/starter/node_modules/lodash/every.js1712755060856997999 0
 61/home/renan/Documentos/projetos/starter/node_modules/argparse1708174492496143782 1
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/index.d.ts1717412312326047641 0
 85/home/renan/Documentos/projetos/starter/node_modules/css-what/lib/commonjs/parse.d.ts1715418194886392318 0
 103/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/abstract/structureRole.js1708174493056154961 0
 70/home/renan/Documentos/projetos/starter/node_modules/lmdb/util/when.js1715418201910061730 0
@@ -14204,6 +14505,7 @@
 118/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/types.d.ts1715418195130525324 0
 117/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/lib/rules/mouse-events-have-key-events.js1708174493104155919 0
 102/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/lib/rules/no-access-key.js1708174493104155919 0
+89/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler1717412311950037672 1
 114/home/renan/Documentos/projetos/starter/node_modules/@mischnic/json-sourcemap/node_modules/json5/dist/index.min.js1715418194202017008 0
 106/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/lib/rules/media-has-caption.js1708174493092155679 0
 92/home/renan/Documentos/projetos/starter/node_modules/xterm/src/addons/terminado/terminado.ts1709818284382975747 0
@@ -14258,6 +14560,7 @@
 108/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/select.js1708174493152156877 0
 78/home/renan/Documentos/projetos/starter/node_modules/validator/lib/isBase64.js1709809619699109680 0
 86/home/renan/Documentos/projetos/starter/node_modules/eslint/messages/plugin-invalid.js1708174493296159752 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530143201.js1717090321930641671 0
 68/home/renan/Documentos/projetos/starter/node_modules/has-tostringtag1708174492596145778 1
 74/home/renan/Documentos/projetos/starter/node_modules/sharp/src/pipeline.cc1716382546613156225 0
 105/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/normalize-package-data/package.json1709817889836427763 0
@@ -14326,6 +14629,7 @@
 79/home/renan/Documentos/projetos/starter/node_modules/@babel/parser/lib/index.js1714659275606924238 0
 94/home/renan/Documentos/projetos/starter/.history/controllers/errorController_20240518112913.js1716042553594840213 0
 84/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/id-denylist.js1708174493108155999 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/traversal.js.map1717412312258045839 0
 116/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/docs/rules/interactive-supports-focus.md1708174493168157197 0
 146/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/audits2/audits2_module.js1709818316771220260 0
 103/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/docs/rules/no-access-key.md1708174493172157277 0
@@ -14403,6 +14707,7 @@
 105/home/renan/Documentos/projetos/starter/node_modules/@babel/runtime/helpers/classPrivateMethodInitSpec.js1708174492724148333 0
 69/home/renan/Documentos/projetos/starter/node_modules/morgan/README.md1707819153488847059 0
 117/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/__tests__/src/util/getElementType-test.js1708174492868151208 0
+98/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/LICENSE1717412312254045732 0
 80/home/renan/Documentos/projetos/starter/node_modules/delayed-stream/package.json1715594411333379607 0
 78/home/renan/Documentos/projetos/starter/node_modules/lodash/_hasUnicodeWord.js1712755060780992918 0
 126/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-jsx-a11y/__tests__/src/util/isNonInteractiveElement-test.js1708174493036154561 0
@@ -14434,6 +14739,7 @@
 74/home/renan/Documentos/projetos/starter/node_modules/body-parser/lib/types1707478016877341157 1
 93/home/renan/Documentos/projetos/starter/node_modules/eslint/lib/rules/no-loss-of-precision.js1708174493220158235 0
 78/home/renan/Documentos/projetos/starter/node_modules/shebang-command/readme.md1708174492176137394 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/lib/esm/node.d.ts1717412312206044460 0
 72/home/renan/Documentos/projetos/starter/node_modules/globalthis/index.js1708174492332140508 0
 99/home/renan/Documentos/projetos/starter/node_modules/jsonwebtoken/node_modules/semver/bin/semver.js1710700248460414878 0
 94/home/renan/Documentos/projetos/starter/node_modules/axios/lib/helpers/AxiosURLSearchParams.js1715594412009383071 0
@@ -14471,6 +14777,7 @@
 79/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/wrap-ansi1709817889884428009 1
 86/home/renan/Documentos/projetos/starter/node_modules/send/node_modules/ms/package.json1707478016833340134 0
 111/home/renan/Documentos/projetos/starter/node_modules/jsx-ast-utils/src/values/expressions/SequenceExpression.js1708174492960153044 0
+89/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/LICENSE1717412312738058565 0
 68/home/renan/Documentos/projetos/starter/node_modules/lodash/xorBy.js1712755061073012438 0
 130/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/module_dir/zmodules/bbb/main.js1708174493012154082 0
 75/home/renan/Documentos/projetos/starter/node_modules/for-each/.editorconfig1708174492092135717 0
@@ -14746,6 +15053,7 @@
 69/home/renan/Documentos/projetos/starter/node_modules/lodash/README.md1712755061077012706 0
 79/home/renan/Documentos/projetos/starter/node_modules/typedarray/readme.markdown1709818283890972064 0
 103/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/wasm-mutable-globals.js1715418197167619502 0
+74/home/renan/Documentos/projetos/starter/.history/config_20240603073829.env1717411109190951982 0
 77/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/symbol/for.js1715594697918741154 0
 104/home/renan/Documentos/projetos/starter/node_modules/@parcel/node-resolver-core/node_modules/.bin/semver1715418301720567525 0
 100/home/renan/Documentos/projetos/starter/node_modules/xterm/src/renderer/dom/DomRendererRowFactory.ts1709818284406975927 0
@@ -14837,6 +15145,7 @@
 67/home/renan/Documentos/projetos/starter/node_modules/ast-types-flow1708174492404141945 1
 74/home/renan/Documentos/projetos/starter/node_modules/carlo/node_modules/ms1709818283746970986 1
 112/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/which/node_modules/isexe/dist/mjs/index.js1709817889316425098 0
+65/home/renan/Documentos/projetos/starter/node_modules/leac/LICENSE1717412312114042021 0
 68/home/renan/Documentos/projetos/starter/node_modules/.bin/esgenerate1715418104644581376 0
 86/home/renan/Documentos/projetos/starter/node_modules/array.prototype.flatmap/.eslintrc1708174492112136116 0
 107/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/node_modules/debug/src/browser.js1708174492152136915 0
@@ -15110,6 +15419,7 @@
 81/home/renan/Documentos/projetos/starter/node_modules/fastq/.github/dependabot.yml1708174492588145618 0
 76/home/renan/Documentos/projetos/starter/node_modules/lodash/_baseExtremum.js1712755060708988104 0
 72/home/renan/Documentos/projetos/starter/node_modules/detect-libc/LICENSE1715418194738311110 0
+74/home/renan/Documentos/projetos/starter/node_modules/parseley/lib/ast.d.ts1717412312262045945 0
 81/home/renan/Documentos/projetos/starter/node_modules/readable-stream/lib/internal1708301306871464412 1
 100/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-import/lib/rules/no-deprecated.js1708174492848150809 0
 98/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/canvas-blending.js1715418196235121916 0
@@ -15172,6 +15482,7 @@
 95/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/input-search.js1715418196967513564 0
 130/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/pseudo/slotted.js1715418196607320950 0
 97/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/scrollintoview.js1715418197099583573 0
+119/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/node.d.ts1717412312210044566 0
 95/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/script-async.js1715418197095581460 0
 97/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/battery-status.js1715418195758865584 0
 99/home/renan/Documentos/projetos/starter/node_modules/css-tree/cjs/syntax/node/AttributeSelector.cjs1715418194646260630 0
@@ -15494,7 +15805,7 @@
 101/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/tabpanelRole.js1708174493064155120 0
 70/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/set.js1715594698034741669 0
 121/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/browser_field1708174493096155759 1
-71/home/renan/Documentos/projetos/starter/node_modules/.package-lock.json1716382548965217173 0
+71/home/renan/Documentos/projetos/starter/node_modules/.package-lock.json1717412315086120819 0
 134/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/browser_field/package.json1708174493096155759 0
 121/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/missing_index1708174493108155999 1
 118/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/same_names1708174492992153683 1
@@ -15554,6 +15865,7 @@
 91/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/node/Identifier.js1715418196759402276 0
 76/home/renan/Documentos/projetos/starter/node_modules/nodemailer/lib/punycode1712056601832984796 1
 116/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/dot_main1708174493096155759 1
+84/home/renan/Documentos/projetos/starter/.history/routes/tourRoutes_20240530140351.js1717088631806299855 0
 129/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/dot_main/package.json1708174493096155759 0
 77/home/renan/Documentos/projetos/starter/node_modules/lowercase-keys/readme.md1709818283746970986 0
 152/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/resources/inspector/Images/accelerometer-bottom.png1709818316811220565 0
@@ -15934,6 +16246,7 @@
 99/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/literal/searchRole.js1708174493040154641 0
 95/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es6.string.link.js1715594697766740478 0
 90/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/scope/selector.js1715418196851451499 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode.js.map1717412312250045626 0
 103/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@tufjs/models/dist/utils/types.js1709817889680426964 0
 88/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/function/var.js1715418196895475041 0
 76/home/renan/Documentos/projetos/starter/node_modules/lodash/_baseConforms.js1712755060704987836 0
@@ -15952,6 +16265,7 @@
 115/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/locales/th.pak1709818315499210582 0
 88/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/atrule/media.js1715418196811430098 0
 77/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/node1715418196903479321 1
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530150504.js1717092304893037029 0
 79/home/renan/Documentos/projetos/starter/node_modules/rc/test/nested-env-vars.js1709818283958972573 0
 93/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/node/UnicodeRange.js1715418196891472901 0
 84/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/syntax/node/CDC.js1715418196631333791 0
@@ -16206,12 +16520,14 @@
 109/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/entities/lib/esm/encode.d.ts.map1715418196679359473 0
 58/home/renan/Documentos/projetos/starter/node_modules/chalk1708174492340140668 1
 65/home/renan/Documentos/projetos/starter/node_modules/chalk/source1708174492180137474 1
+109/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/querying.d.ts.map1717412312238045308 0
 102/home/renan/Documentos/projetos/starter/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/crypto.c1715418196067032030 0
 73/home/renan/Documentos/projetos/starter/node_modules/chalk/source/util.js1708174492212138113 0
 74/home/renan/Documentos/projetos/starter/node_modules/chalk/source/index.js1708174492144136755 0
 99/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2023/CompletePropertyDescriptor.js1708174493172157277 0
 71/home/renan/Documentos/projetos/starter/node_modules/chalk/package.json1708174492280139470 0
 84/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/libnpmhook/lib1709817889236424687 1
+110/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/index.d.ts.map1717412312290046687 0
 70/home/renan/Documentos/projetos/starter/node_modules/ee-first/index.js1707478016833340134 0
 71/home/renan/Documentos/projetos/starter/node_modules/to-fast-properties1714659275226919946 1
 87/home/renan/Documentos/projetos/starter/node_modules/object-inspect/test/toStringTag.js1707478016893341529 0
@@ -16277,6 +16593,7 @@
 75/home/renan/Documentos/projetos/starter/node_modules/ajv/lib/dotjs/const.js1708174492788149611 0
 71/home/renan/Documentos/projetos/starter/node_modules/utility-types/dist1715418195110514488 1
 73/home/renan/Documentos/projetos/starter/node_modules/ajv/lib/dotjs/ref.js1708174492896151767 0
+71/home/renan/Documentos/projetos/starter/node_modules/selderee/README.md1717412312142042763 0
 75/home/renan/Documentos/projetos/starter/node_modules/ajv/lib/dotjs/oneOf.js1708174492884151527 0
 78/home/renan/Documentos/projetos/starter/node_modules/ajv/lib/dotjs/required.js1708174492900151847 0
 107/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/tiny-relative-date/translations/da.js1709817889028423621 0
@@ -16588,6 +16905,7 @@
 95/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/cjs/_class_name_tdz_error.cjs1715418196499263166 0
 86/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2019/ToPropertyKey.js1708174493552164863 0
 84/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/clone/clone.js1709817889000423478 0
+123/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/esm/foreignNames.d.ts.map1717412312146042869 0
 134/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/subselects.js1715418194678278188 0
 98/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/ToZeroPaddedDecimalString.js1708174493564165103 0
 81/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/has-unicode1709817889804427599 1
@@ -16695,6 +17013,7 @@
 89/home/renan/Documentos/projetos/starter/node_modules/ordered-binary/assets/powers-dre.png1715418195254592509 0
 126/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/match-graph.js1715418196515271727 0
 87/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/builtins/index.js1709817889196424482 0
+100/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/package.json1717412312210044566 0
 106/home/renan/Documentos/projetos/starter/node_modules/@humanwhocodes/config-array/node_modules/ms/readme.md1708174492188137634 0
 81/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/ignore-walk1709817889808427620 1
 85/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/ignore-walk/lib1709817889224424626 1
@@ -16952,6 +17271,7 @@
 110/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@pkgjs/parseargs/internal/primordials.js1709817889452425795 0
 99/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@npmcli/fs/lib/common/node.js1709817889392425487 0
 106/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@npmcli/fs/lib/common/get-options.js1709817889124424113 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode.d.ts1717412312314047323 0
 93/home/renan/Documentos/projetos/starter/.history/controllers/userController_20240522102315.js1716384195386043134 0
 97/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@npmcli/fs/lib/cp/errors.js1709817889084423908 0
 97/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@npmcli/fs/lib/move-file.js1709817889384425446 0
@@ -17042,6 +17362,7 @@
 87/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/minizlib/index.js1709817889252424769 0
 92/home/renan/Documentos/projetos/starter/node_modules/update-notifier/node_modules/color-name1709818283846971735 1
 86/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/minizlib/LICENSE1709817888724422065 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/userController_20240530142655.js1717090015680675228 0
 91/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/minizlib/constants.js1709817889020423580 0
 90/home/renan/Documentos/projetos/starter/node_modules/svgo/lib/svgo/css-select-adapter.d.ts1715418197359720948 0
 91/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/minizlib/package.json1709817889832427743 0
@@ -17098,6 +17419,7 @@
 107/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@sigstore/sign/dist/external/rekor.js1709817889528426184 0
 120/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/compile.d.ts.map1715418194766326474 0
 76/home/renan/Documentos/projetos/starter/node_modules/flat-cache/src/cache.js1708174492304139949 0
+115/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer/lib/foreignNames.d.ts1717412312166043399 0
 67/home/renan/Documentos/projetos/starter/node_modules/busboy/LICENSE1716212157119567477 0
 87/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/https-proxy-agent1709817889808427620 1
 95/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/https-proxy-agent/LICENSE1709817888676421819 0
@@ -17234,7 +17556,7 @@
 94/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/string/virtual/bold.js1715594697606739768 0
 93/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/balanced-match/index.js1709817889192424462 0
 95/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/balanced-match/LICENSE.md1709817889932428255 0
-69/home/renan/Documentos/projetos/starter/controllers/userController.js1716385495177284710 0
+69/home/renan/Documentos/projetos/starter/controllers/userController.js1717090015656674724 0
 78/home/renan/Documentos/projetos/starter/node_modules/es-define-property/.nycrc1708174492148136835 0
 97/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/balanced-match/package.json1709817889776427456 0
 97/home/renan/Documentos/projetos/starter/node_modules/css-select/lib/esm/pseudo-selectors/index.js1715418194862379149 0
@@ -18023,6 +18345,7 @@
 98/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/glob/dist/esm/pattern.js.map1709817889904428112 0
 94/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/glob/dist/esm/pattern.js1709817889444425754 0
 90/home/renan/Documentos/projetos/starter/node_modules/npm/docs/content/commands/npm-pack.md1709817889956428379 0
+122/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/generated/encode-html.d.ts.map1717412312258045839 0
 87/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/glob/package.json1709817889804427599 0
 85/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/aggregate-error1709817889772427435 1
 94/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/aggregate-error/index.js1709817889192424462 0
@@ -18105,6 +18428,7 @@
 81/home/renan/Documentos/projetos/starter/node_modules/safe-array-concat/index.d.ts1708174492464143143 0
 90/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/libnpmhook/README.md1709817889988428543 0
 93/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/libnpmhook/package.json1709817889820427681 0
+93/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/dom-serializer1717412311950037672 1
 82/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/helpers/clone.js1708301307243475892 0
 100/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/npm-user-validate/package.json1709817889840427784 0
 80/home/renan/Documentos/projetos/starter/node_modules/csso/cjs/replace/Atrule.cjs1715418194662269409 0
@@ -18304,6 +18628,7 @@
 124/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@isaacs/cliui/node_modules/emoji-regex/LICENSE-MIT.txt1709817890084429035 0
 73/home/renan/Documentos/projetos/starter/node_modules/stable/stable.min.js1715418193957882808 0
 116/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@isaacs/cliui/node_modules/emoji-regex/text.js1709817889652426820 0
+91/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/README.md1717412312742058671 0
 68/home/renan/Documentos/projetos/starter/node_modules/.bin/esvalidate1715418104644581376 0
 121/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/@isaacs/cliui/node_modules/emoji-regex/package.json1709817889744427292 0
 83/home/renan/Documentos/projetos/starter/node_modules/xterm/src/common/tsconfig.json1709818284390975807 0
@@ -18512,6 +18837,7 @@
 111/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/gypsh.py1709817890028428748 0
 116/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja_test.py1709817890048428851 0
 87/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/libnpmversion/lib1709817889724427189 1
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530150748.js1717092468984925050 0
 113/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/android.py1709817890020428707 0
 97/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/lib/syntax/atrule1715418204263220975 1
 111/home/renan/Documentos/projetos/starter/node_modules/eslint-utils/node_modules/eslint-visitor-keys/lib/index.js1708174492144136755 0
@@ -18593,6 +18919,7 @@
 132/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/restructure/4-restructShorthand.js1715418194093957748 0
 74/home/renan/Documentos/projetos/starter/node_modules/argparse/CHANGELOG.md1708174492496143782 0
 102/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/domutils/lib/esm/feeds.js1715418195262596844 0
+74/home/renan/Documentos/projetos/starter/node_modules/parseley/package.json1717412312258045839 0
 100/home/renan/Documentos/projetos/starter/node_modules/abortcontroller-polyfill/src/abortcontroller.js1715418195010460306 0
 92/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/columnify/package.json1709817889784427497 0
 111/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-node/lib/util/get-configured-node-version.js1708174492736148573 0
@@ -19061,6 +19388,8 @@
 101/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-react/node_modules/resolve/example1708174493076155360 1
 72/home/renan/Documentos/projetos/starter/node_modules/ipaddr.js/README.md1707478016837340227 0
 66/home/renan/Documentos/projetos/starter/node_modules/ipaddr.js/lib1707478016865340878 1
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/package.json1717412312298046899 0
+69/home/renan/Documentos/projetos/starter/node_modules/html-to-text/lib1717412312110041915 1
 81/home/renan/Documentos/projetos/starter/node_modules/ipaddr.js/lib/ipaddr.js.d.ts1707478016869340971 0
 73/home/renan/Documentos/projetos/starter/node_modules/process-nextick-args1708301306743460462 1
 75/home/renan/Documentos/projetos/starter/node_modules/ipaddr.js/package.json1707478016809339577 0
@@ -19203,12 +19532,14 @@
 73/home/renan/Documentos/projetos/starter/node_modules/pug-runtime/index.js1714659275278920533 0
 82/home/renan/Documentos/projetos/starter/node_modules/core-js/library/es6/string.js1715594698046741722 0
 77/home/renan/Documentos/projetos/starter/node_modules/pug-runtime/package.json1714659275310920895 0
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/legacy.js.map1717412312230045096 0
 66/home/renan/Documentos/projetos/starter/node_modules/hasown/.nycrc1708174492216138193 0
 70/home/renan/Documentos/projetos/starter/node_modules/hasown/index.d.ts1708174492492143702 0
 79/home/renan/Documentos/projetos/starter/node_modules/object.entries/polyfill.js1708174492408142025 0
 85/home/renan/Documentos/projetos/starter/node_modules/resolve/test/resolver/mug.coffee1708174492480143463 0
 69/home/renan/Documentos/projetos/starter/node_modules/hasown/README.md1708174492476143383 0
 81/home/renan/Documentos/projetos/starter/node_modules/loose-envify/loose-envify.js1708174492224138352 0
+76/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/char.mjs1717412312154043081 0
 75/home/renan/Documentos/projetos/starter/node_modules/pseudomap/pseudomap.js1709818283778971226 0
 75/home/renan/Documentos/projetos/starter/node_modules/loose-envify/custom.js1708174492128136436 0
 74/home/renan/Documentos/projetos/starter/node_modules/browserslist/parse.js1715418194174001644 0
@@ -19391,6 +19722,7 @@
 78/home/renan/Documentos/projetos/starter/node_modules/@parcel/markdown-ansi/src1715418196259134757 1
 77/home/renan/Documentos/projetos/starter/node_modules/axios/lib/core/settle.js1715594412025383152 0
 97/home/renan/Documentos/projetos/starter/node_modules/fast-json-stable-stringify/example/nested.js1708174492336140588 0
+71/home/renan/Documentos/projetos/starter/node_modules/parseley/README.md1717412312262045945 0
 57/home/renan/Documentos/projetos/starter/node_modules/depd1707478016857340692 1
 81/home/renan/Documentos/projetos/starter/node_modules/axios/lib/core/AxiosError.js1715594412001383030 0
 103/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-babel/src/remapAstLocations.js1715418199164665455 0
@@ -19426,6 +19758,7 @@
 107/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es6.object.set-prototype-of.js1715594697746740389 0
 71/home/renan/Documentos/projetos/starter/node_modules/axios/package.json1715594412033383193 0
 61/home/renan/Documentos/projetos/starter/node_modules/statuses1707478016849340506 1
+105/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/escape.js.map1717412312286046581 0
 141/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/pseudos.d.ts.map1715418194910405486 0
 72/home/renan/Documentos/projetos/starter/node_modules/statuses/codes.json1707478016837340227 0
 95/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2017/FromPropertyDescriptor.js1708174493284159513 0
@@ -19544,6 +19877,7 @@
 110/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/dom-serializer/lib/index.d.ts.map1715418195406674865 0
 89/home/renan/Documentos/projetos/starter/node_modules/validator/lib/util/multilineRegex.js1709809619743111080 0
 74/home/renan/Documentos/projetos/starter/node_modules/core-js/es7/system.js1715594698050741740 0
+74/home/renan/Documentos/projetos/starter/node_modules/deepmerge/dist/umd.js1717412312126042339 0
 108/home/renan/Documentos/projetos/starter/node_modules/css-select/lib/esm/pseudo-selectors/subselects.d.ts.map1715418195822900260 0
 64/home/renan/Documentos/projetos/starter/node_modules/npm/lib/es61709817889704427087 1
 97/home/renan/Documentos/projetos/starter/node_modules/utility-types/dist/aliases-and-guards.js.map1715418194854374759 0
@@ -19591,6 +19925,7 @@
 98/home/renan/Documentos/projetos/starter/node_modules/string.prototype.matchall/.github/FUNDING.yml1708174492576145379 0
 66/home/renan/Documentos/projetos/starter/node_modules/with/.babelrc1714659275462922611 0
 83/home/renan/Documentos/projetos/starter/node_modules/string.prototype.matchall/test1708174492448142824 1
+98/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/glib-2.01717412314018092502 1
 112/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/plugins.js1715418195454700872 0
 86/home/renan/Documentos/projetos/starter/node_modules/string.prototype.matchall/LICENSE1708174492164137155 0
 113/home/renan/Documentos/projetos/starter/node_modules/@parcel/package-manager/node_modules/semver/functions/inc.js1715418195898941438 0
@@ -20608,6 +20943,7 @@
 84/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/string/virtual/at.js1715594697598739732 0
 120/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/match.js1715418196523276007 0
 124/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/structure.js1715418196615325231 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/traversal.js1717412312206044460 0
 91/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/src/_get_prototype_of.mjs1715418197087577233 0
 112/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax1715418196495261026 1
 105/home/renan/Documentos/projetos/starter/node_modules/@humanwhocodes/object-schema/tests/merge-strategy.js1708174492280139470 0
@@ -21088,6 +21424,7 @@
 115/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-html/node_modules/semver/classes/semver.js1715418196127064132 0
 66/home/renan/Documentos/projetos/starter/node_modules/url-parse-lax1709818283698970627 1
 114/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-html/node_modules/semver/classes/range.js1715418195986989117 0
+113/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/node_modules/domhandler/lib/esm1717412312110041915 1
 91/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/_/_construct/package.json1715418196951505003 0
 110/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-html/node_modules/semver/package.json1715418196239124057 0
 76/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/object/is.js1715594697970741385 0
@@ -21304,6 +21641,7 @@
 75/home/renan/Documentos/projetos/starter/node_modules/css-tree/cjs/index.cjs1715418196023008489 0
 111/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer1715418196635335931 1
 115/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css/at-rules.json1715418194169999449 0
+111/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/manipulation.js1717412312158043187 0
 82/home/renan/Documentos/projetos/starter/node_modules/@mischnic/json-sourcemap/dist1715418196083040591 1
 122/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css/at-rules.schema.json1715418194270054319 0
 88/home/renan/Documentos/projetos/starter/node_modules/mongodb/lib/cmap/connection_pool.js1708301307175473793 0
@@ -21346,6 +21684,7 @@
 112/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/clean/index.js1715418195610785395 0
 72/home/renan/Documentos/projetos/starter/node_modules/braces/lib/parse.js1709818283950972513 0
 117/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/clean/WhiteSpace.js1715418195890937103 0
+108/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/helpers.d.ts.map1717412312226044990 0
 110/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/csso/dist/csso.min.js1715418195426685701 0
 106/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/csso/dist/csso.js1715418195206566502 0
 97/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-tree1715418196663350912 1
@@ -21556,6 +21895,7 @@
 90/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_object-dp.js1715594697486739234 0
 94/home/renan/Documentos/projetos/starter/node_modules/@parcel/core/src/requests/EntryRequest.js1715418201998105969 0
 133/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/aliases.d.ts1715418195006458139 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530150747.js1717092467496888706 0
 131/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/aliases.js1715418193953880585 0
 81/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2017/MakeDate.js1708174493404161908 0
 77/home/renan/Documentos/projetos/starter/node_modules/xss-clean/lib/xss.js.map1712753462417580278 0
@@ -21583,6 +21923,7 @@
 86/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/node-gyp/gyp/gyp1709817888576421308 0
 108/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-babel/node_modules/json5/LICENSE.md1715418194746315500 0
 102/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-babel/node_modules/.bin/json51715418301720567525 0
+97/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domhandler/LICENSE1717412312110041915 0
 109/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-babel/node_modules/semver/preload.js1715418195982986950 0
 81/home/renan/Documentos/projetos/starter/node_modules/nodemailer/lib/nodemailer.js1712056601876987052 0
 86/home/renan/Documentos/projetos/starter/node_modules/xterm/lib/core/data/Charsets.d.ts1709818284302975148 0
@@ -21613,6 +21954,7 @@
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/TimeFromYear.js1708174493512164064 0
 71/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn1715594698070741829 1
 117/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-babel/node_modules/semver/functions/major.js1715418195874928434 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Parser.js.map1717412312314047323 0
 114/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-babel/node_modules/semver/functions/eq.js1715418195710839576 0
 125/home/renan/Documentos/projetos/starter/node_modules/@parcel/transformer-babel/node_modules/semver/functions/compare-build.js1715418195602781061 0
 87/home/renan/Documentos/projetos/starter/node_modules/array.prototype.flat/test/index.js1708174492356140987 0
@@ -21742,6 +22084,7 @@
 82/home/renan/Documentos/projetos/starter/node_modules/@parcel/namer-default/LICENSE1715418196351183981 0
 97/home/renan/Documentos/projetos/starter/node_modules/@babel/types/lib/builders/productions.js.map1714659275450922476 0
 78/home/renan/Documentos/projetos/starter/node_modules/@parcel/namer-default/src1715418196407213943 1
+95/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/LICENSE1717412312110041915 0
 78/home/renan/Documentos/projetos/starter/node_modules/@parcel/namer-default/lib1715418196363190401 1
 75/home/renan/Documentos/projetos/starter/node_modules/object-inspect/.github1707478016897341622 1
 106/home/renan/Documentos/projetos/starter/node_modules/@parcel/package-manager/node_modules/semver/README.md1715418196459241765 0
@@ -21789,6 +22132,7 @@
 83/home/renan/Documentos/projetos/starter/node_modules/array.prototype.filter/LICENSE1708174492168137234 0
 83/home/renan/Documentos/projetos/starter/node_modules/array.prototype.filter/shim.js1708174492464143143 0
 88/home/renan/Documentos/projetos/starter/node_modules/array.prototype.filter/CHANGELOG.md1708174492596145778 0
+104/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/helpers.d.ts1717412312262045945 0
 84/home/renan/Documentos/projetos/starter/node_modules/leaflet/src/geo/LatLngBounds.js1715000844511097987 0
 97/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/css-page-break.js1715418196703372314 0
 83/home/renan/Documentos/projetos/starter/node_modules/array.prototype.filter/auto.js1708174492236138592 0
@@ -21850,6 +22194,7 @@
 60/home/renan/Documentos/projetos/starter/node_modules/@eslint1708174491300119909 1
 63/home/renan/Documentos/projetos/starter/node_modules/@eslint/js1708174492340140668 1
 71/home/renan/Documentos/projetos/starter/node_modules/@eslint/js/LICENSE1708174492072135318 0
+94/home/renan/Documentos/projetos/starter/node_modules/@selderee/plugin-htmlparser2/CHANGELOG.md1717412312742058671 0
 67/home/renan/Documentos/projetos/starter/node_modules/@eslint/js/src1708174492284139550 1
 93/home/renan/Documentos/projetos/starter/node_modules/css-select/lib/pseudo-selectors/index.js1715418194890394512 0
 114/home/renan/Documentos/projetos/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/compile.js1715418194133979696 0
@@ -22182,6 +22527,7 @@
 81/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_extends.js1715418196739391575 0
 85/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2022/Number/equal.js1708174493256158954 0
 90/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_class_call_check.js1715418196703372314 0
+95/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/LICENSE1717412312110041915 0
 98/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_class_private_method_get.js1715418196715378734 0
 86/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_create_super.js1715418196731387295 0
 84/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_instanceof.js1715418196747395856 0
@@ -22202,6 +22548,7 @@
 85/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_await_value.js1715418196695368034 0
 85/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_ts_metadata.js1715418196795421537 0
 94/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_wrap_async_generator.js1715418196807427958 0
+103/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/legacy.d.ts1717412312270046157 0
 81/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/drivers/SPEC.md1708301307407480952 0
 100/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_class_apply_descriptor_set.js1715418196699370174 0
 104/home/renan/Documentos/projetos/starter/node_modules/@swc/helpers/esm/_class_extract_field_descriptor.js1715418196707374454 0
@@ -22431,6 +22778,7 @@
 68/home/renan/Documentos/projetos/starter/node_modules/es-to-primitive1708174492564145139 1
 75/home/renan/Documentos/projetos/starter/node_modules/typedarray/test/server1709818283934972393 1
 78/home/renan/Documentos/projetos/starter/node_modules/typedarray/test/tarray.js1709818283922972303 0
+107/home/renan/Documentos/projetos/starter/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/libvips-cpp.so.421717412314018092502 0
 71/home/renan/Documentos/projetos/starter/node_modules/typedarray/LICENSE1709818283654970298 0
 76/home/renan/Documentos/projetos/starter/node_modules/typedarray/package.json1709818283622970058 0
 69/home/renan/Documentos/projetos/starter/node_modules/pug/lib/index.js1714659275678925051 0
@@ -22499,6 +22847,7 @@
 96/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/TimerRole.js1708174492992153683 0
 96/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/TableRole.js1708174492976153364 0
 99/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/TabPanelRole.js1708174492980153444 0
+73/home/renan/Documentos/projetos/starter/node_modules/deepmerge/index.d.ts1717412312150042975 0
 98/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/IgnoredRole.js1708174492764149132 0
 95/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/MenuRole.js1708174492876151367 0
 101/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/StaticTextRole.js1708174492956152964 0
@@ -22775,6 +23124,7 @@
 86/home/renan/Documentos/projetos/starter/node_modules/doctrine/LICENSE.closure-compiler1708174492248138831 0
 102/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/lib/convertor/index.js1715418201950081839 0
 69/home/renan/Documentos/projetos/starter/node_modules/file-entry-cache1708174492248138831 1
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode.d.ts1717412312314047323 0
 86/home/renan/Documentos/projetos/starter/node_modules/eslint-plugin-prettier/LICENSE.md1708174492364141147 0
 93/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es6.math.log2.js1715594697690740141 0
 90/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/parser/parse-selector.js1715418196831440799 0
@@ -22937,6 +23287,7 @@
 86/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/abstract1708174493084155520 1
 103/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/abstract/compositeRole.js1708174492708148014 0
 102/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/abstract/roletypeRole.js1708174493028154402 0
+77/home/renan/Documentos/projetos/starter/node_modules/peberminta/lib/char.d.ts1717412312166043399 0
 102/home/renan/Documentos/projetos/starter/node_modules/aria-query/lib/etc/roles/abstract/landmarkRole.js1708174492968153204 0
 96/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/web-animation.js1715418197175623729 0
 89/home/renan/Documentos/projetos/starter/node_modules/@parcel/source-map/dist/wasm.js.flow1715418197491790693 0
@@ -22997,6 +23348,7 @@
 92/home/renan/Documentos/projetos/starter/node_modules/simple-swizzle/node_modules/is-arrayish1716382546569155085 1
 101/home/renan/Documentos/projetos/starter/node_modules/simple-swizzle/node_modules/is-arrayish/index.js1716382546561154878 0
 100/home/renan/Documentos/projetos/starter/node_modules/simple-swizzle/node_modules/is-arrayish/LICENSE1716382546565154982 0
+77/home/renan/Documentos/projetos/starter/node_modules/parseley/lib/parser.d.ts1717412312266046051 0
 102/home/renan/Documentos/projetos/starter/node_modules/simple-swizzle/node_modules/is-arrayish/README.md1716382546569155085 0
 107/home/renan/Documentos/projetos/starter/node_modules/simple-swizzle/node_modules/is-arrayish/yarn-error.log1716382546593155707 0
 99/home/renan/Documentos/projetos/starter/node_modules/caniuse-lite/data/features/css-first-letter.js1715418196615325231 0
@@ -23017,6 +23369,7 @@
 93/home/renan/Documentos/projetos/starter/node_modules/es-iterator-helpers/Iterator/polyfill.js1708174492984153523 0
 90/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_to-absolute-index.js1715594697530739430 0
 74/home/renan/Documentos/projetos/starter/node_modules/readdirp/package.json1709818283730970867 0
+71/home/renan/Documentos/projetos/starter/node_modules/deepmerge/index.js1717412312118042127 0
 70/home/renan/Documentos/projetos/starter/node_modules/slugify/README.md1709635214171167329 0
 84/home/renan/Documentos/projetos/starter/node_modules/@ungap/structured-clone/LICENSE1708174492072135318 0
 83/home/renan/Documentos/projetos/starter/node_modules/core-js/library/core/regexp.js1715594698022741616 0
@@ -23116,6 +23469,7 @@
 102/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/entities/lib/esm/index.js1715418196039017049 0
 107/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/entities/lib/esm/escape.js.map1715418196691365893 0
 105/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/entities/lib/esm/encode.d.ts1715418196715378734 0
+114/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/htmlparser2/lib/esm/Parser.d.ts.map1717412312314047323 0
 98/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/core.object.define.js1715594697618739821 0
 117/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/entities/lib/esm/decode_codepoint.js.map1715418196635335931 0
 108/home/renan/Documentos/projetos/starter/node_modules/css-select/node_modules/entities/lib/esm/index.d.ts.map1715418196695368034 0
@@ -23224,6 +23578,7 @@
 94/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/es6.string.starts-with.js1715594697770740496 0
 90/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_collection-strong.js1715594697438739021 0
 78/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_fails.js1715594697454739092 0
+57/home/renan/Documentos/projetos/starter/node_modules/leac1717412311946037566 1
 93/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/es7.string.trim-right.js1715594697898741065 0
 94/home/renan/Documentos/projetos/starter/.history/controllers/errorController_20240321101341.js1715686515559950363 0
 88/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2017/GetSubstitution.js1708174493324160311 0
@@ -23271,6 +23626,7 @@
 87/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/es6.object.seal.js1715594697746740389 0
 80/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_iobject.js1715594697462739128 0
 85/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_to-primitive.js1715594697534739448 0
+93/home/renan/Documentos/projetos/starter/.history/controllers/tourController_20240530140234.js1717088554722042406 0
 113/home/renan/Documentos/projetos/starter/node_modules/lightningcss-linux-x64-musl/lightningcss.linux-x64-musl.node1715594418369415580 0
 75/home/renan/Documentos/projetos/starter/node_modules/css-tree/lib/tokenizer1715418196891472901 1
 93/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/es7.symbol.observable.js1715594697898741065 0
@@ -23283,6 +23639,7 @@
 116/home/renan/Documentos/projetos/starter/node_modules/csso/node_modules/css-tree/lib/syntax/node/AttributeSelector.js1715418197691896366 0
 100/home/renan/Documentos/projetos/starter/node_modules/axobject-query/lib/etc/objects/InputTimeRole.js1708174492784149531 0
 86/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_object-create.js1715594697482739217 0
+121/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/esm/decode_codepoint.d.ts.map1717412312230045096 0
 95/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/es6.typed.float64-array.js1715594697778740532 0
 92/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/_species-constructor.js1715594697514739359 0
 87/home/renan/Documentos/projetos/starter/node_modules/core-js/modules/es7.weak-set.of.js1715594697902741082 0
@@ -23536,6 +23893,7 @@
 85/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/typed/array-buffer.js1715594697594739714 0
 84/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/typed/uint8-array.js1715594698062741793 0
 80/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/set-immediate.js1715594698030741651 0
+117/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/decode_codepoint.d.ts.map1717412312230045096 0
 91/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/wcwidth/docs/index.md1709817889928428235 0
 69/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/error1715594697966741367 1
 81/home/renan/Documentos/projetos/starter/node_modules/core-js/fn/error/is-error.js1715594697970741385 0
@@ -23879,6 +24237,7 @@
 90/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_is-regexp.js1715594697466739146 0
 69/home/renan/Documentos/projetos/starter/node_modules/error-ex/LICENSE1715418193889845021 0
 100/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es6.string.ends-with.js1715594697762740461 0
+107/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/legacy.d.ts.map1717412312230045096 0
 91/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_fix-re-wks.js1715594697454739092 0
 102/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2023/IsUnclampedIntegerElementType.js1708174493388161589 0
 120/home/renan/Documentos/projetos/starter/node_modules/carlo/lib/.local-data/linux-624492/chrome-linux/locales/ca.pak.info1709818315675211921 0
@@ -23907,6 +24266,7 @@
 96/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/core.is-iterable.js1715594697614739803 0
 73/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/compose.js1712755060840996930 0
 91/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_collection.js1715594697442739039 0
+72/home/renan/Documentos/projetos/starter/node_modules/deepmerge/readme.md1717412312142042763 0
 90/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_enum-keys.js1715594697450739074 0
 86/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2015/IsPropertyKey.js1708174493380161429 0
 92/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_typed-array.js1715594697534739448 0
@@ -23918,6 +24278,7 @@
 92/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es7.set.from.js1715594697886741011 0
 92/home/renan/Documentos/projetos/starter/node_modules/npm/node_modules/bin-links/package.json1709817889776427456 0
 100/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es7.string.trim-left.js1715594697898741065 0
+112/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/domutils/lib/esm/helpers.d.ts.map1717412312222044884 0
 90/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/_to-object.js1715594697534739448 0
 98/home/renan/Documentos/projetos/starter/node_modules/es-abstract/2020/CreateDataPropertyOrThrow.js1708174493196157756 0
 97/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es6.string.repeat.js1715594697770740496 0
@@ -24044,11 +24405,13 @@
 94/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/string/virtual/link.js1715594697990741473 0
 75/home/renan/Documentos/projetos/starter/node_modules/lodash/fp/takeWhile.js1712755061049010835 0
 99/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/string/virtual/pad-start.js1715594698010741562 0
+78/home/renan/Documentos/projetos/starter/node_modules/parseley/lib/parseley.mjs1717412312262045945 0
 73/home/renan/Documentos/projetos/starter/node_modules/streamsearch/LICENSE1716212157119567477 0
 100/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/string/virtual/trim-right.js1715594698058741775 0
 101/home/renan/Documentos/projetos/starter/node_modules/@parcel/core/test/fixtures/common-targets-ignore1715418204239209347 1
 99/home/renan/Documentos/projetos/starter/node_modules/jsonwebtoken/node_modules/semver/ranges/ltr.js1710700248448414678 0
 99/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/string/virtual/trim-left.js1715594698054741758 0
+101/home/renan/Documentos/projetos/starter/node_modules/html-to-text/node_modules/entities/lib/encode.js1717412312214044672 0
 103/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/string/virtual/unescape-html.js1715594698066741811 0
 98/home/renan/Documentos/projetos/starter/node_modules/core-js/library/modules/es6.array.iterator.js1715594697662740016 0
 95/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/string/virtual/blink.js1715594697602739750 0
@@ -24158,6 +24521,7 @@
 87/home/renan/Documentos/projetos/starter/node_modules/define-data-property/tsconfig.json1707478016861340785 0
 89/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/array/index-of.js1715594697942741260 0
 85/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/array/from.js1715594697918741154 0
+70/home/renan/Documentos/projetos/starter/node_modules/leac/lib/leac.mjs1717412312134042551 0
 88/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/array/unshift.js1715594698066741811 0
 89/home/renan/Documentos/projetos/starter/node_modules/core-js/library/fn/array/includes.js1715594697942741260 0
 87/home/renan/Documentos/projetos/starter/node_modules/mongoose/lib/helpers/arrayDepth.js1708301307103471572 0
