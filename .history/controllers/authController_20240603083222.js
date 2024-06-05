@@ -52,10 +52,6 @@ exports.signup = catchAsync(async (req, res, next) => {
     role: req.body.role,
   });
 
-  const url = `${req.protocol}://${req.get('host')}/me`;
-  // console.log(url);
-  await new Email(newUser, url).sendWelcome();
-
   // Token JWT para sessões
   createSendToken(newUser, 201, res);
 });
@@ -250,12 +246,20 @@ exports.forgotPassword = catchAsync(async (req, res, next) => {
   const resetToken = user.createPasswordResetToken();
   await user.save({ validateBeforeSave: false });
 
+  // 3 - enviar o token para o email do usuário
+  const resetURL = `${req.protocol}://${req.get(
+    'host',
+  )}/api/v1/users/resetPassword/${resetToken}`;
+
+  const message = `Esqueceu sua senha? Submeta uma nova senha com PATCH com sua nova senha e a confirmação para: ${resetURL}.
+  \nSe você não esqueceu sua senha, por favor, ignore esse email!`;
+
   try {
-    // 3 - enviar o token para o email do usuário
-    const resetURL = `${req.protocol}://${req.get(
-      'host',
-    )}/api/v1/users/resetPassword/${resetToken}`;
-    await new Email(user, resetURL).sendPasswordReset();
+    // await sendMail({
+    //   email: user.email,
+    //   subject: 'Seu token de redefinição de senha (válido por 10 minutos)',
+    //   message,
+    // });
 
     res.status(200).json({
       status: `success`,

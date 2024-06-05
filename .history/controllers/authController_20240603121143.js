@@ -250,11 +250,15 @@ exports.forgotPassword = catchAsync(async (req, res, next) => {
   const resetToken = user.createPasswordResetToken();
   await user.save({ validateBeforeSave: false });
 
+  // 3 - enviar o token para o email do usuário
+  const resetURL = `${req.protocol}://${req.get(
+    'host',
+  )}/api/v1/users/resetPassword/${resetToken}`;
+
+  const message = `Esqueceu sua senha? Submeta uma nova senha com PATCH com sua nova senha e a confirmação para: ${resetURL}.
+  \nSe você não esqueceu sua senha, por favor, ignore esse email!`;
+
   try {
-    // 3 - enviar o token para o email do usuário
-    const resetURL = `${req.protocol}://${req.get(
-      'host',
-    )}/api/v1/users/resetPassword/${resetToken}`;
     await new Email(user, resetURL).sendPasswordReset();
 
     res.status(200).json({
