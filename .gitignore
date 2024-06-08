@@ -6,3 +6,4 @@ dev-data
 .vscode
 .history
 config.env.env
+.env
