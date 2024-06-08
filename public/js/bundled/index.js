@@ -148,12 +148,14 @@ var _openLayerJs = require("./openLayer.js");
 var _loginJs = require("./login.js");
 var _updateSettingsJs = require("./updateSettings.js");
 var _signupJs = require("./signup.js");
+var _stripeJs = require("./stripe.js");
 // elemento do DOM
 const map = document.getElementById("map");
 const loginForm = document.querySelector(".form--login");
 const logoutBtn = document.querySelector(".nav__el--logout");
 const signupForm = document.querySelector(".form--signup");
 const updateUserDataForm = document.querySelector(".form-user-data");
+const bookBtn = document.getElementById("book-tour");
 const updatePasswordForm = document.querySelector(".form-user-settings");
 // coordenadas do mapa
 if (map) {
@@ -209,8 +211,13 @@ if (signupForm) signupForm.addEventListener("submit", async (e)=>{
     await (0, _signupJs.signup)(name, email, password, passwordConfirm);
     document.querySelector("#btn--signup").textContent = "Cadastrar";
 });
+if (bookBtn) bookBtn.addEventListener("click", (e)=>{
+    e.target.textContent = "Processando...";
+    const { tourId } = e.target.dataset;
+    (0, _stripeJs.bookTour)(tourId);
+});
 
-},{"./login.js":"7yHem","@babel/polyfill":"dTCHC","./openLayer.js":"jB05g","./updateSettings.js":"l3cGY","./signup.js":"fNY2o"}],"7yHem":[function(require,module,exports) {
+},{"./login.js":"7yHem","@babel/polyfill":"dTCHC","./openLayer.js":"jB05g","./updateSettings.js":"l3cGY","./signup.js":"fNY2o","./stripe.js":"10tSC"}],"7yHem":[function(require,module,exports) {
 /* eslint-disable */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "login", ()=>login);
@@ -11776,6 +11783,28 @@ const signup = async (name, email, password, passwordConfirm)=>{
     }
 };
 
-},{"axios":"jo6P5","./alert":"kxdiQ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["f2QDv"], "f2QDv", "parcelRequire11c7")
+},{"axios":"jo6P5","./alert":"kxdiQ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"10tSC":[function(require,module,exports) {
+/* eslint-disable */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "bookTour", ()=>bookTour);
+var _axios = require("axios");
+var _axiosDefault = parcelHelpers.interopDefault(_axios);
+const stripe = Stripe("pk_test_51POgkdHEYoocmqIr5BqLFQuQM5lmUm9cPdmbiklB8VkoFTeKVx13MCCXgdGTbb7AfdbDgEKH01KCyTjq9rtxSx4d00v7eMJGhQ");
+const bookTour = async (tourId)=>{
+    try {
+        // 1 - obter sessão de checkout
+        const session = await (0, _axiosDefault.default)(`http://localhost:3000/api/v1/bookings/checkout-session/${tourId}`);
+        // 2 - criar formulário de checkout + cobrar cartão de crédito
+        window.open(session.data.session.url, "_blank");
+    // await stripe.redirectToCheckout({
+    //   sessionId: session.data.session.id,
+    // });
+    } catch (err) {
+        console.log(err);
+        showAlert("error", err);
+    }
+};
+
+},{"axios":"jo6P5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["f2QDv"], "f2QDv", "parcelRequire11c7")
 
 //# sourceMappingURL=index.js.map
