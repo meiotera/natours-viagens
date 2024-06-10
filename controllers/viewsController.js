@@ -1,4 +1,6 @@
 const Tour = require('../models/tourModel');
+const User = require('../models/userModel');
+const Booking = require('../models/bookingModel');
 const catchAsync = require('../ultils/catchAsync');
 const AppError = require('../ultils/appError');
 
@@ -44,6 +46,27 @@ exports.getAccount = catchAsync(async (req, res, next) => {
   res.status(200).render('account', {
     title: 'Sua Conta',
   });
+});
+
+exports.getMyTours = catchAsync(async (req, res, next) => {
+  try {
+    // Supondo que o id do usuário logado esteja disponível em req.user.id
+    const user = await User.findById(req.user.id).populate('tours');
+    const tourIds = user.tours.map((el) => el.tour);
+
+    // Os tours do usuário estão agora disponíveis na propriedade 'tours'
+    const myTours = await Tour.find({ _id: { $in: tourIds } });
+
+    res.status(200).render('overview', {
+      title: 'Meus Passeios',
+      tours: myTours,
+    });
+  } catch (err) {
+    res.status(404).json({
+      status: 'fail',
+      message: err,
+    });
+  }
 });
 
 exports.getSignup = catchAsync(async (req, res, next) => {

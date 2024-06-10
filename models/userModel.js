@@ -6,81 +6,87 @@ const bcrypt = require('bcryptjs');
 
 const crypto = require('crypto');
 
-const userSchema = new mongoose.Schema({
-  name: {
-    type: String,
-    required: [true, 'Insira o seu nome para realizar o cadastro'],
-    minlength: [5, 'O nome deve ter no mínimo 8 caracteres'],
-    maxlength: [40, 'O nome deve ter no máximo 40 caracteres'],
-    validate: [
-      {
-        validator: function (val) {
-          return /^[a-zA-Z\s-]*$/.test(val);
+const userSchema = new mongoose.Schema(
+  {
+    name: {
+      type: String,
+      required: [true, 'Insira o seu nome para realizar o cadastro'],
+      minlength: [5, 'O nome deve ter no mínimo 8 caracteres'],
+      maxlength: [40, 'O nome deve ter no máximo 40 caracteres'],
+      validate: [
+        {
+          validator: function (val) {
+            return /^[a-zA-Z\s-]*$/.test(val);
+          },
+          message: 'O nome de usuário deve ter apenas letras.',
         },
-        message: 'O nome de usuário deve ter apenas letras.',
-      },
-    ],
-    trim: true,
-  },
-
-  email: {
-    type: String,
-    required: [true, 'Você deve inserir seu email'],
-    unique: true,
-    trim: true,
-    lowercase: true,
-    validate: [validator.isEmail, 'Por favor insira um e-mail válido'],
-  },
-
-  photo: {
-    type: String,
-    default: 'default.jpg',
-  },
-  // restringir o papel do usuário
-  role: {
-    type: String,
-    enum: ['user', 'guide', 'lead-guide', 'admin'],
-    default: 'user',
-  },
-
-  password: {
-    type: String,
-    required: [true, 'Insira o seu Password'],
-    minlength: [5, 'O Password deve ter no mínimo 5 caracteres'],
-    // excluindo o password da saída do postman
-    select: false,
-  },
-
-  passwordConfirm: {
-    type: String,
-    required: [true, 'Confirme sua senha'],
-    validate: {
-      // Só funciona ao criar ou salvar
-      validator: function (el) {
-        return el === this.password;
-      },
-      message: 'As senhas devem ser iguais!',
+      ],
+      trim: true,
     },
-  },
-  // data em que a senha foi alterada
-  passwordChangedAt: Date,
-  passwordResetToken: String,
-  passwordResetExpires: Date,
-  active: {
-    type: Boolean,
-    default: true,
-    select: false,
-  },
 
-  passwordattmpt: {
-    type: Number,
-    default: 0,
-    max: 5,
-  },
+    email: {
+      type: String,
+      required: [true, 'Você deve inserir seu email'],
+      unique: true,
+      trim: true,
+      lowercase: true,
+      validate: [validator.isEmail, 'Por favor insira um e-mail válido'],
+    },
 
-  // horario que atingiu 5 tentativas
-  passwordattmpTime: Date,
-});
+    photo: {
+      type: String,
+      default: 'default.jpg',
+    },
+    // restringir o papel do usuário
+    role: {
+      type: String,
+      enum: ['user', 'guide', 'lead-guide', 'admin'],
+      default: 'user',
+    },
+
+    password: {
+      type: String,
+      required: [true, 'Insira o seu Password'],
+      minlength: [5, 'O Password deve ter no mínimo 5 caracteres'],
+      // excluindo o password da saída do postman
+      select: false,
+    },
+
+    passwordConfirm: {
+      type: String,
+      required: [true, 'Confirme sua senha'],
+      validate: {
+        // Só funciona ao criar ou salvar
+        validator: function (el) {
+          return el === this.password;
+        },
+        message: 'As senhas devem ser iguais!',
+      },
+    },
+    // data em que a senha foi alterada
+    passwordChangedAt: Date,
+    passwordResetToken: String,
+    passwordResetExpires: Date,
+    active: {
+      type: Boolean,
+      default: true,
+      select: false,
+    },
+
+    passwordattmpt: {
+      type: Number,
+      default: 0,
+      max: 5,
+    },
+
+    // horario que atingiu 5 tentativas
+    passwordattmpTime: Date,
+  },
+  {
+    toJSON: { virtuals: true },
+    toObject: { virtuals: true },
+  },
+);
 
 userSchema.pre('save', async function (next) {
   if (!this.isModified('password')) return next();
@@ -139,6 +145,13 @@ userSchema.methods.createPasswordResetToken = function () {
 userSchema.pre(/^find/, function (next) {
   this.find({ active: { $ne: false } });
   next();
+});
+
+userSchema.virtual('tours', {
+  ref: 'Booking',
+  localField: '_id',
+  foreignField: 'user',
+  justOne: false,
 });
 
 const User = mongoose.model('User', userSchema);
