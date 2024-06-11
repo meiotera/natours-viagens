@@ -1322,3 +1322,27 @@ body {
   -webkit-transform: translateY(-2px);
   transform: translateY(-2px);
 }
+
+.all-users {
+  width: 100%;
+  text-align: center;
+  font-size: 1.8em;
+}
+
+.all-users tr:nth-child(even) {
+  background-color: #dad8d8;
+}
+
+.btn-dell {
+  background-color: #f44336; /* Cor de fundo vermelha */
+  border: none; /* Remove a borda */
+  border-radius: 12px;
+  color: white; /* Cor do texto branca */
+  padding: 8px 14px; /* Espaçamento interno */
+  text-align: center; /* Alinhamento do texto */
+  text-decoration: none; /* Remove o sublinhado */
+  display: inline-block; /* Faz o botão se comportar como um bloco, mas permite que ele fique em linha com outros elementos */
+  font-size: 16px; /* Tamanho da fonte */
+  margin: 4px 2px; /* Margem ao redor do botão */
+  cursor: pointer; /* Muda o cursor para um ponteiro quando você passa o mouse sobre o botão */
+}

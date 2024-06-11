@@ -21,6 +21,8 @@ router.get('/login', authController.isLoggedIn, viewsController.getLoginForm);
 router.get('/me', authController.protect, viewsController.getAccount);
 router.get('/my-tours', authController.protect, viewsController.getMyTours);
 
+router.get('/users', authController.protect, viewsController.getAllUsers);
+
 // router.patch(
 //   '/updateMe',
 //   authController.protect,

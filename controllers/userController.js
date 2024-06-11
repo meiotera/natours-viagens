@@ -5,21 +5,6 @@ const factory = require('./handlerFactory');
 const sharp = require('sharp');
 const multer = require('multer');
 
-// storage para salvar a imagem
-// const multerStorage = multer.diskStorage({
-//   // destino da imagem
-//   destination: (req, file, cb) => {
-//     cb(null, 'public/img/users');
-//   },
-
-//   // definindo nome do arquivo
-//   filename: (req, file, cb) => {
-//     // user-id-timestamp.jpeg
-//     const ext = file.mimetype.split('/')[1];
-//     cb(null, `user-${req.user.id}-${Date.now()}.${ext}`);
-//   },
-// });
-
 const multerStorage = multer.memoryStorage();
 
 // funcao para filtrar arquivos
@@ -68,20 +53,6 @@ const filterObj = (obj, ...allowedFields) => {
 
   return newObj;
 };
-
-// exports.getAllUsers = catchAsync(async (req, res, next) => {
-//   const users = await User.find();
-
-//   // enviando resposta
-//   res.status(200).json({
-//     status: 'success',
-
-//     results: users.length,
-//     data: {
-//       users: users,
-//     },
-//   });
-// });
 
 exports.getMe = (req, res, next) => {
   req.params.id = req.user.id;

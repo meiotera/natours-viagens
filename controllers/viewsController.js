@@ -18,6 +18,22 @@ exports.getOverview = catchAsync(async (req, res, next) => {
   });
 });
 
+exports.getAllUsers = catchAsync(async (req, res, next) => {
+  try {
+    const users = await User.find();
+
+    res.status(200).render('users', {
+      title: 'Todos os usuários',
+      users,
+    });
+  } catch (err) {
+    res.status(404).json({
+      status: 'fail',
+      message: err,
+    });
+  }
+});
+
 exports.getTour = catchAsync(async (req, res, next) => {
   // 1 - pegar dados do tour da coleção Tour
   const tour = await Tour.findOne({ slug: req.params.slug }).populate({
