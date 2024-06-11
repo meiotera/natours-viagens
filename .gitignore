@@ -5,4 +5,4 @@ dev-data
 .parcel-cache
 .vscode
 .history
-.env
+config.env
