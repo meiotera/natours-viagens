@@ -61,8 +61,8 @@ exports.getMe = (req, res, next) => {
 
 // função para atualizar usuário autenticado
 exports.updateMe = catchAsync(async (req, res, next) => {
-  console.log(req.file);
-  console.log(req.body);
+  // console.log(req.file);
+  // console.log(req.body);
   // 1) Criar erro se o usuário tentar atualizar a senha
   if (req.body.password || req.body.passwordConfirm) {
     return next(

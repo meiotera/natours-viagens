@@ -207,11 +207,11 @@ tourSchema.pre(/^find/, function (next) {
   next();
 });
 
-tourSchema.post(/^find/, function (docs, next) {
-  // console.log(`Query ${Date.now() - this.start} ms`);
-  // console.log(docs);
-  next();
-});
+// tourSchema.post(/^find/, function (docs, next) {
+//   // console.log(`Query ${Date.now() - this.start} ms`);
+//   // console.log(docs);
+//   next();
+// });
 
 // midleware de agragação
 // tourSchema.pre('aggregate', function (next) {
