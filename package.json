@@ -10,8 +10,8 @@
     "dev": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
     "debug": "ndb server.js",
-    "watch:js": "node_modules/.bin/parcel watch --no-hmr ./public/js/index.js --dist-dir ./public/js/bundled",
-    "build": "node_modules/.bin/parcel build ./public/js/index.js --dist-dir ./public/js/bundled"
+    "watch:js": "parcel watch --no-hmr ./public/js/index.js --dist-dir ./public/js/bundled",
+    "build": "parcel build ./public/js/index.js --dist-dir ./public/js/bundled"
   },
   "author": "Renan",
   "license": "ISC",
