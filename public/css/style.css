@@ -1346,3 +1346,73 @@ body {
   margin: 4px 2px; /* Margem ao redor do botão */
   cursor: pointer; /* Muda o cursor para um ponteiro quando você passa o mouse sobre o botão */
 }
+
+/* css mobile*/
+/* Estilos Base */
+
+@media only screen and (max-width: 840px) {
+  .card-container {
+    grid-template-columns: repeat(2, 1fr); /* Ajuste para que tablets mostrem 1 card por linha */
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .card-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+:root {
+  --section-rotate: 9vw;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #777;
+  padding: 1rem; /* Menos padding para dispositivos móveis */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  padding: 4rem 2rem; /* Padding reduzido para dispositivos móveis */
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  font-size: 1.4rem; /* Tamanho de fonte reduzido para botões */
+  padding: 1rem 2rem; /* Padding reduzido para botões */
+}
+
+/* Ajustes para telas menores usando Media Queries */
+@media only screen and (max-width: 600px) {
+  :root {
+    --section-rotate: 7vw; /* Ajuste na rotação para telas menores */
+  }
+
+  .heading-primary {
+    font-size: 4rem; /* Tamanho de fonte reduzido para o título principal */
+  }
+
+  .heading-secondary {
+    font-size: 2rem; /* Tamanho de fonte reduzido para o título secundário */
+  }
+
+  .container,
+  .header {
+    padding: 0 2rem; /* Padding lateral reduzido */
+  }
+
+  .flex,
+  .header__logo img,
+  .btn,
+  .btn-small {
+    flex-direction: column; /* Mudança na direção do flex para coluna */
+  }
+
+  .section-header {
+    height: 50vw; /* Altura ajustada para a cabeça da seção */
+  }
+}
