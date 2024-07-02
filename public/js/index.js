@@ -105,3 +105,7 @@ if (bookBtn) {
     bookTour(tourId);
   });
 }
+
+document.querySelector('.menu-btn').addEventListener('click', function () {
+  document.querySelector('.user-view__menu').classList.toggle('show-menu');
+});
