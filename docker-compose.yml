@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    environment:
+      NODE_ENV: development
+      PORT: 3000
+      DATABASE: mongodb://mongo:27017/natours  # Alteração para usar o MongoDB local no Docker Compose
+      DATABASE_PASSWORD: rfcosta123
+      JWT_SECRET: "CulCZD$$[kl}gN,br)>4%w5R]g%bqodei" 
+      JWT_EXPIRES_IN: 1D
+      JWT_COOKIE_EXPIRES_IN: 1
+      EMAIL_USERNAME: bb840b8038d9dd
+      EMAIL_PASSWORD: e04eb26dc7452c
+      EMAIL_HOST: sandbox.smtp.mailtrap.io
+      EMAIL_PORT: 2525
+      EMAIL_FROM: renanfc.re@gmail.com
+      SENDGRID_USERNAME: apikey
+      SENDGRID_PASSWORD: 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
+      STRIPE_SECRET_KEY: sk_test_51POgkdHEYoocmqIrNsL4wpJNycsYijJWsf9FM97eM6CbkjZIq4LL0i1ch0Tj7O49nCYYl0uwH3GthEc4HtfTlRu100WHO5B7De
+    depends_on:
+      - mongo
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: npm run dev
+
+  mongo:
+    image: mongo:5.0
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
+
